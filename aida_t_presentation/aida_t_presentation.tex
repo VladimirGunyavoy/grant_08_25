@@ -1,0 +1,96 @@
+\documentclass[aspectratio=169,8pt]{beamer}
+\usepackage[utf8]{inputenc}
+\usepackage[russian]{babel}
+\usepackage[T2A]{fontenc}
+\usepackage{graphicx}
+\usepackage{array}
+\usepackage{booktabs}
+\usepackage{xcolor}
+\usepackage{tikz}
+\usepackage{amsmath}
+\usepackage{amsfonts}
+
+% Настройка межстрочного интервала
+\linespread{0.9}
+
+% Настройка темы
+\usetheme{Madrid}
+\usecolortheme{default}
+
+% Определение цветов
+\definecolor{aiblue}{RGB}{0,113,162}
+\definecolor{aigreen}{RGB}{0,150,64}
+\definecolor{aiorange}{RGB}{255,140,0}
+
+% Настройка цветовой схемы
+\setbeamercolor{structure}{fg=aiblue}
+\setbeamercolor{frametitle}{bg=aiblue,fg=white}
+\setbeamercolor{title}{fg=aiblue}
+
+% Удаление навигационных символов
+\setbeamertemplate{navigation symbols}{}
+
+% Настройка заголовков
+\setbeamertemplate{frametitle}[default][center]
+
+% Команда для создания слайда с разделением на текст и изображение
+\newcommand{\slidewithimage}[3]{
+\begin{frame}[t]{#1}
+\begin{columns}[T]
+    \begin{column}{0.48\textwidth}
+        #2
+    \end{column}
+    \hfill
+    \begin{column}{0.48\textwidth}
+        \centering
+        \vspace{1cm}
+        \begin{tikzpicture}
+            \draw[thick, dashed, gray] (0,0) rectangle (4,3);
+            \node at (2,1.5) {\Large \textcolor{gray}{#3}};
+        \end{tikzpicture}
+    \end{column}
+\end{columns}
+\end{frame}
+}
+
+\title{AIDA-T: Автономная система мониторинга томатов}
+\subtitle{Заявка на грант Старт-ИИ-1-2025}
+\author{Давиденко Сергей Александрович}
+\institute{Сколковский институт науки и технологий}
+\date{Август 2025}
+
+\begin{document}
+
+% ИНСТРУКЦИЯ ПО ИСПОЛЬЗОВАНИЮ:
+% 1. Создайте папку slides/ в той же директории, что и этот файл
+% 2. Поместите все файлы slide*.tex в папку slides/
+% 3. Для компиляции используйте: pdflatex presentation_aida_t.tex (дважды)
+% 4. Или используйте Makefile: make
+
+% Импорт отдельных слайдов (файлы должны находиться в папке slides/)
+\input{slides/slide01_title}
+\input{slides/slide02_problem}  
+\input{slides/slide03_solution}
+\input{slides/slide04_technology}
+\input{slides/slide05_innovation}
+\input{slides/slide06_background}
+\input{slides/slide07_competition}
+\input{slides/slide08_market}
+\input{slides/slide09_business}
+\input{slides/slide10_team}
+
+% Финальный слайд
+\begin{frame}
+\centering
+\vspace{2cm}
+{\Huge \textcolor{aiblue}{Спасибо за внимание!}}
+\vspace{1cm}
+
+{\Large Вопросы?}
+\vspace{1cm}
+
+\textcolor{aigreen}{\textbf{sergei.davidenko@skoltech.ru}}\\
+\textcolor{aigreen}{\textbf{+7 918 544 81 41}}
+\end{frame}
+
+\end{document}
