@@ -1,153 +1,93 @@
 \begin{thebibliography}{10}
 
-\bibitem{Beckenbach2018}
-Lukas Beckenbach, Pavel Osinenko, Thomas Gohrt, and Stefan Streif.
-\newblock Constrained and stabilizing stacked adaptive dynamic programming and a comparison with model predictive control.
-\newblock {\em 2018 European Control Conference (ECC)}, pages 1349--1354, 2018.
-
-\bibitem{Beckenbach2019}
-Lukas Beckenbach, Pavel Osinenko, and Stefan Streif.
-\newblock Model predictive control with stage cost shaping inspired by reinforcement learning.
-\newblock {\em 2019 IEEE 58th Conference on Decision and Control (CDC)}, pages 7110--7115, 2019.
-
-\bibitem{Beckenbach2020}
-Lukas Beckenbach, Pavel Osinenko, and Stefan Streif.
-\newblock A q-learning predictive control scheme with guaranteed stability.
-\newblock {\em European Journal of Control}, 56:167--178, 2020.
-
-\bibitem{Beckenbach2024}
-Lukas Beckenbach, Pavel Osinenko, and Stefan Streif.
-\newblock A stabilizing reinforcement learning approach for sampled systems with partially unknown models.
-\newblock {\em International Journal of Robust and Nonlinear Control}, 34(18):12389--12412, 2024.
-
-\bibitem{Bögel2016}
-T.~Bögel, P.~Osinenko, and Th. Herlitzius.
-\newblock Assessment of soil roughness after tillage using spectral analysis.
-\newblock {\em Soil and Tillage Research}, 159:73--82, 2016.
-
-\bibitem{Dobriborsci2024}
-Dmitrii Dobriborsci, Ilya Chichkanov, Roman Zashchitin, and Pavel Osinenko.
-\newblock Model-based reinforcement learning experimental study for mobile robot navigation.
-\newblock {\em 2024 10th International Conference on Control, Decision and Information Technologies (CoDIT)}, 16:1825--1830, 2024.
-
-\bibitem{Dobriborsci2022}
-Dmitrii Dobriborsci, Pavel Osinenko, and Wolfgang Aumer.
-\newblock An experimental study of two predictive reinforcement learning methods and comparison with model-predictive control.
-\newblock {\em IFAC-PapersOnLine}, 55(10):1545--1550, 2022.
-
-\bibitem{Geissler2015}
-Mike Geissler, Pavel Osinenko, and Thomas Herlitzius.
-\newblock Winding switching strategy for electric wheel drives in agricultural machinery.
-\newblock {\em 2015 IEEE International Conference on Industrial Technology (ICIT)}, pages 851--856, 2015.
-
-\bibitem{Gohrt2019}
-Thomas Gohrt, Pavel Osinenko, and Stefan Streif.
-\newblock Adaptive dynamic programming using lyapunov function constraints.
-\newblock {\em IEEE Control Systems Letters}, 3(4):901--906, 2019.
-
-\bibitem{Göhrt2020}
-Thomas Göhrt, Fritjof Griesing-Scheiwe, Pavel Osinenko, and Stefan Streif.
-\newblock A reinforcement learning method with closed-loop stability guarantee for systems with unknown parameters.
-\newblock {\em IFAC-PapersOnLine}, 53(2):8157--8162, 2020.
-
-\bibitem{Göhrt2019}
-Thomas Göhrt, Pavel Osinenko, and Stefan Streif.
-\newblock Adaptive actor-critic structure for parametrized controllers.
-\newblock {\em IFAC-PapersOnLine}, 52(16):652--657, 2019.
-
-\bibitem{Ibrahim2024}
-Sinan Ibrahim, Mostafa Mostafa, Ali Jnadi, Hadi Salloum, and Pavel Osinenko.
-\newblock Comprehensive overview of reward engineering and shaping in advancing reinforcement learning applications.
-\newblock {\em IEEE Access}, 12:175473--175500, 2024.
-
-\bibitem{Kobelski2020}
-Alexander Kobelski, Pavel Osinenko, and Stefan Streif.
-\newblock A method of online traction parameter identification and mapping.
-\newblock {\em IFAC-PapersOnLine}, 53(2):13933--13938, 2020.
-
-\bibitem{Kobelski2021}
-Alexander Kobelski, Pavel Osinenko, and Stefan Streif.
-\newblock Experimental verification of an online traction parameter identification method.
-\newblock {\em Control Engineering Practice}, 113:104837, 2021.
-
-\bibitem{Larchenko2021}
-Maria~A. Larchenko, Pavel Osinenko, Grigory Yaremenko, and Vladimir~V. Palyulin.
-\newblock A study of first-passage time minimization via q-learning in heated gridworlds.
-\newblock {\em IEEE Access}, 9:159349--159363, 2021.
-
-\bibitem{Morozov2024}
-Alexander Morozov, Mikhail Pugach, Andrey Polyakov, Pavel Osinenko, Anton Bolychev, Vladimir Terzija, and Sergei Parsegov.
-\newblock Optimal flow factor determination in vanadium redox flow battery control.
-\newblock {\em IEEE Access}, 12:19277--19284, 2024.
-
-\bibitem{Osinenko2019}
-P~Osinenko and S~Streif.
-\newblock Analysis of extremum value theorems for function spaces in optimal control under numerical uncertainty.
-\newblock {\em IMA Journal of Mathematical Control and Information}, 36(3):1015--1032, 2019.
-
-\bibitem{Osinenko2020}
-Pavel Osinenko, Lukas Beckenbach, Thomas Göhrt, and Stefan Streif.
-\newblock A reinforcement learning method with closed-loop stability guarantee.
-\newblock {\em IFAC-PapersOnLine}, 53(2):8043--8048, 2020.
-
-\bibitem{Osinenko2018}
-Pavel Osinenko, Lukas Beckenbach, and Stefan Streif.
-\newblock Practical sample-and-hold stabilization of nonlinear systems under approximate optimizers.
-\newblock {\em IEEE Control Systems Letters}, 2(4):569--574, 2018.
-
-\bibitem{Osinenko2021}
-Pavel Osinenko, Konni Biegert, Roy~J. McCormick, Thomas Göhrt, Grigory Devadze, Josef Streif, and Stefan Streif.
-\newblock Application of non-destructive sensors and big data analysis to predict physiological storage disorders and fruit firmness in ‘braeburn’ apples.
-\newblock {\em Computers and Electronics in Agriculture}, 183:106015, 2021.
-
-\bibitem{Osinenko2022}
-Pavel Osinenko, Dmitrii Dobriborsci, and Wolfgang Aumer.
-\newblock Reinforcement learning with guarantees: a review.
-\newblock {\em IFAC-PapersOnLine}, 55(15):123--128, 2022.
-
-\bibitem{Osinenko2023}
-Pavel Osinenko, Dmitrii Dobriborsci, Grigory Yaremenko, and Georgiy Malaniya.
-\newblock A generalized stacked reinforcement learning method for sampled systems.
-\newblock {\em IEEE Transactions on Automatic Control}, 68(11):7006--7013, 2023.
-
-\bibitem{Osinenko2014}
-Pavel Osinenko, Mike Geissler, and Thomas Herlitzius.
-\newblock Adaptive unscented kaiman filter with a fuzzy supervisor for electrified drive train tractors.
-\newblock {\em 2014 IEEE International Conference on Fuzzy Systems (FUZZ-IEEE)}, pages 322--331, 2014.
-
-\bibitem{Osinenko2016}
-Pavel Osinenko, Mike Geissler, Thomas Herlitzius, and Stefan Streif.
-\newblock Experimental results of slip control with a fuzzy-logic-assisted unscented kalman filter for state estimation.
-\newblock {\em 2016 IEEE International Conference on Fuzzy Systems (FUZZ-IEEE)}, pages 501--507, 2016.
+\bibitem{Osinenko2015}
+P.~V. Osinenko, M.~Geissler, and T.~Herlitzius, ``A method of optimal traction control for farm tractors with feedback of drive torque,'' {\em Biosystems Engineering}, vol.~129, pp.~20--33, 2015.
 
 \bibitem{Osinenko2017}
-Pavel Osinenko and Stefan Streif.
-\newblock Optimal traction control for heavy-duty vehicles.
-\newblock {\em Control Engineering Practice}, 69:99--111, 2017.
+P.~Osinenko and S.~Streif, ``Optimal traction control for heavy-duty vehicles,'' {\em Control Engineering Practice}, vol.~69, pp.~99--111, 2017.
 
-\bibitem{Osinenko2024}
-Pavel Osinenko, Grigory Yaremenko, Roman Zashchitin, Anton Bolychev, Sinan Ibrahim, and Dmitrii Dobriborsci.
-\newblock Critic as lyapunov function (calf): a model-free, stability-ensuring agent.
-\newblock {\em 2024 IEEE 63rd Conference on Decision and Control (CDC)}, pages 2517--2524, 2024.
+\bibitem{Osinenko2022}
+P.~Osinenko, D.~Dobriborsci, and W.~Aumer, ``Reinforcement learning with guarantees: a review,'' {\em IFAC-PapersOnLine}, vol.~55, no.~15, pp.~123--128, 2022.
 
-\bibitem{Osinenko2015}
-Pavel~V. Osinenko, Mike Geissler, and Thomas Herlitzius.
-\newblock A method of optimal traction control for farm tractors with feedback of drive torque.
-\newblock {\em Biosystems Engineering}, 129:20--33, 2015.
+\bibitem{Osinenko2021}
+P.~Osinenko, K.~Biegert, R.~J. McCormick, T.~Göhrt, G.~Devadze, J.~Streif, and S.~Streif, ``Application of non-destructive sensors and big data analysis to predict physiological storage disorders and fruit firmness in ‘braeburn’ apples,'' {\em Computers and Electronics in Agriculture}, vol.~183, p.~106015, 2021.
 
-\bibitem{Osokin2024}
-Ilya Osokin, Ilya Ryakin, Sina Moghimi, Mikhail Patrikeev, Ilya Barsky, and Pavel Osinenko.
-\newblock Neural network-based classification for automated powdery mildew detection in modern tomato greenhouses.
-\newblock {\em IEEE Access}, 12:86782--86789, 2024.
+\bibitem{Ibrahim2024}
+S.~Ibrahim, M.~Mostafa, A.~Jnadi, H.~Salloum, and P.~Osinenko, ``Comprehensive overview of reward engineering and shaping in advancing reinforcement learning applications,'' {\em IEEE Access}, vol.~12, pp.~175473--175500, 2024.
 
-\bibitem{Rußwurm2020}
-Franz Rußwurm, Pavel Osinenko, and Stefan Streif.
-\newblock Optimal control of centrifugal spreader.
-\newblock {\em IFAC-PapersOnLine}, 53(2):15841--15846, 2020.
+\bibitem{Bögel2016}
+T.~Bögel, P.~Osinenko, and T.~Herlitzius, ``Assessment of soil roughness after tillage using spectral analysis,'' {\em Soil and Tillage Research}, vol.~159, pp.~73--82, 2016.
+
+\bibitem{Osinenko2020}
+P.~Osinenko, L.~Beckenbach, T.~Göhrt, and S.~Streif, ``A reinforcement learning method with closed-loop stability guarantee,'' {\em IFAC-PapersOnLine}, vol.~53, no.~2, pp.~8043--8048, 2020.
+
+\bibitem{Beckenbach2020}
+L.~Beckenbach, P.~Osinenko, and S.~Streif, ``A q-learning predictive control scheme with guaranteed stability,'' {\em European Journal of Control}, vol.~56, pp.~167--178, 2020.
+
+\bibitem{Beckenbach2018}
+L.~Beckenbach, P.~Osinenko, T.~Gohrt, and S.~Streif, ``Constrained and stabilizing stacked adaptive dynamic programming and a comparison with model predictive control,'' {\em 2018 European Control Conference (ECC)}, pp.~1349--1354, 2018.
+
+\bibitem{Osinenko2018}
+P.~Osinenko, L.~Beckenbach, and S.~Streif, ``Practical sample-and-hold stabilization of nonlinear systems under approximate optimizers,'' {\em IEEE Control Systems Letters}, vol.~2, no.~4, pp.~569--574, 2018.
 
 \bibitem{Schmidt2021}
-Patrick Schmidt, Pavel Osinenko, and Stefan Streif.
-\newblock On inf-convolution-based robust practical stabilization under computational uncertainty.
-\newblock {\em IEEE Transactions on Automatic Control}, 66(11):5530--5537, 2021.
+P.~Schmidt, P.~Osinenko, and S.~Streif, ``On inf-convolution-based robust practical stabilization under computational uncertainty,'' {\em IEEE Transactions on Automatic Control}, vol.~66, no.~11, pp.~5530--5537, 2021.
+
+\bibitem{Morozov2024}
+A.~Morozov, M.~Pugach, A.~Polyakov, P.~Osinenko, A.~Bolychev, V.~Terzija, and S.~Parsegov, ``Optimal flow factor determination in vanadium redox flow battery control,'' {\em IEEE Access}, vol.~12, pp.~19277--19284, 2024.
+
+\bibitem{Osinenko2014}
+P.~Osinenko, M.~Geissler, and T.~Herlitzius, ``Adaptive unscented kaiman filter with a fuzzy supervisor for electrified drive train tractors,'' {\em 2014 IEEE International Conference on Fuzzy Systems (FUZZ-IEEE)}, pp.~322--331, 2014.
+
+\bibitem{Osinenko2016}
+P.~Osinenko, M.~Geissler, T.~Herlitzius, and S.~Streif, ``Experimental results of slip control with a fuzzy-logic-assisted unscented kalman filter for state estimation,'' {\em 2016 IEEE International Conference on Fuzzy Systems (FUZZ-IEEE)}, pp.~501--507, 2016.
+
+\bibitem{Osinenko2023}
+P.~Osinenko, D.~Dobriborsci, G.~Yaremenko, and G.~Malaniya, ``A generalized stacked reinforcement learning method for sampled systems,'' {\em IEEE Transactions on Automatic Control}, vol.~68, no.~11, pp.~7006--7013, 2023.
+
+\bibitem{Kobelski2021}
+A.~Kobelski, P.~Osinenko, and S.~Streif, ``Experimental verification of an online traction parameter identification method,'' {\em Control Engineering Practice}, vol.~113, p.~104837, 2021.
+
+\bibitem{Beckenbach2019}
+L.~Beckenbach, P.~Osinenko, and S.~Streif, ``Model predictive control with stage cost shaping inspired by reinforcement learning,'' {\em 2019 IEEE 58th Conference on Decision and Control (CDC)}, pp.~7110--7115, 2019.
+
+\bibitem{Gohrt2019}
+T.~Gohrt, P.~Osinenko, and S.~Streif, ``Adaptive dynamic programming using lyapunov function constraints,'' {\em IEEE Control Systems Letters}, vol.~3, no.~4, pp.~901--906, 2019.
+
+\bibitem{Osinenko2024}
+P.~Osinenko, G.~Yaremenko, R.~Zashchitin, A.~Bolychev, S.~Ibrahim, and D.~Dobriborsci, ``Critic as lyapunov function (calf): a model-free, stability-ensuring agent,'' {\em 2024 IEEE 63rd Conference on Decision and Control (CDC)}, pp.~2517--2524, 2024.
+
+\bibitem{Kobelski2020}
+A.~Kobelski, P.~Osinenko, and S.~Streif, ``A method of online traction parameter identification and mapping,'' {\em IFAC-PapersOnLine}, vol.~53, no.~2, pp.~13933--13938, 2020.
+
+\bibitem{Dobriborsci2022}
+D.~Dobriborsci, P.~Osinenko, and W.~Aumer, ``An experimental study of two predictive reinforcement learning methods and comparison with model-predictive control,'' {\em IFAC-PapersOnLine}, vol.~55, no.~10, pp.~1545--1550, 2022.
+
+\bibitem{Larchenko2021}
+M.~A. Larchenko, P.~Osinenko, G.~Yaremenko, and V.~V. Palyulin, ``A study of first-passage time minimization via q-learning in heated gridworlds,'' {\em IEEE Access}, vol.~9, pp.~159349--159363, 2021.
+
+\bibitem{Göhrt2020}
+T.~Göhrt, F.~Griesing-Scheiwe, P.~Osinenko, and S.~Streif, ``A reinforcement learning method with closed-loop stability guarantee for systems with unknown parameters,'' {\em IFAC-PapersOnLine}, vol.~53, no.~2, pp.~8157--8162, 2020.
+
+\bibitem{Rußwurm2020}
+F.~Rußwurm, P.~Osinenko, and S.~Streif, ``Optimal control of centrifugal spreader,'' {\em IFAC-PapersOnLine}, vol.~53, no.~2, pp.~15841--15846, 2020.
+
+\bibitem{Göhrt2019}
+T.~Göhrt, P.~Osinenko, and S.~Streif, ``Adaptive actor-critic structure for parametrized controllers,'' {\em IFAC-PapersOnLine}, vol.~52, no.~16, pp.~652--657, 2019.
+
+\bibitem{Osokin2024}
+I.~Osokin, I.~Ryakin, S.~Moghimi, M.~Patrikeev, I.~Barsky, and P.~Osinenko, ``Neural network-based classification for automated powdery mildew detection in modern tomato greenhouses,'' {\em IEEE Access}, vol.~12, pp.~86782--86789, 2024.
+
+\bibitem{Osinenko2019}
+P.~Osinenko and S.~Streif, ``Analysis of extremum value theorems for function spaces in optimal control under numerical uncertainty,'' {\em IMA Journal of Mathematical Control and Information}, vol.~36, no.~3, pp.~1015--1032, 2019.
+
+\bibitem{Geissler2015}
+M.~Geissler, P.~Osinenko, and T.~Herlitzius, ``Winding switching strategy for electric wheel drives in agricultural machinery,'' {\em 2015 IEEE International Conference on Industrial Technology (ICIT)}, pp.~851--856, 2015.
+
+\bibitem{Beckenbach2024}
+L.~Beckenbach, P.~Osinenko, and S.~Streif, ``A stabilizing reinforcement learning approach for sampled systems with partially unknown models,'' {\em International Journal of Robust and Nonlinear Control}, vol.~34, no.~18, pp.~12389--12412, 2024.
+
+\bibitem{Dobriborsci2024}
+D.~Dobriborsci, I.~Chichkanov, R.~Zashchitin, and P.~Osinenko, ``Model-based reinforcement learning experimental study for mobile robot navigation,'' {\em 2024 10th International Conference on Control, Decision and Information Technologies (CoDIT)}, vol.~16, pp.~1825--1830, 2024.
 
 \end{thebibliography}
