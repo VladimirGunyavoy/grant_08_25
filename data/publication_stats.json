@@ -1,0 +1,52 @@
+{
+  "total_publications": 66,
+  "first_author_publications": 26,
+  "year_range": "2014-2025",
+  "avg_per_year": 5.5,
+  "by_year": {
+    "2014": 1,
+    "2015": 3,
+    "2016": 4,
+    "2017": 3,
+    "2018": 5,
+    "2019": 5,
+    "2020": 10,
+    "2021": 8,
+    "2022": 3,
+    "2023": 4,
+    "2024": 10,
+    "2025": 10
+  },
+  "first_author_by_year": {
+    "2014": 1,
+    "2015": 2,
+    "2016": 1,
+    "2017": 3,
+    "2018": 3,
+    "2019": 1,
+    "2020": 5,
+    "2021": 5,
+    "2022": 2,
+    "2023": 2,
+    "2024": 1
+  },
+  "top_journals": {
+    "IFAC-PapersOnLine": 11,
+    "IEEE Access": 10,
+    "2025 IEEE 26th International Conference of Young Professionals in Electron Devices and Materials (EDM)": 6,
+    "IEEE Control Systems Letters": 5,
+    "IEEE Transactions on Automatic Control": 5,
+    "Control Engineering Practice": 2,
+    "Soil and Tillage Research": 2,
+    "2024 10th International Conference on Control, Decision and Information Technologies (CoDIT)": 2,
+    "2023 31st Mediterranean Conference on Control and Automation (MED)": 2,
+    "Biosystems Engineering": 1
+  },
+  "research_areas": {
+    "control_theory": 47,
+    "machine_learning": 30,
+    "agriculture": 5,
+    "optimization": 10,
+    "energy": 2
+  }
+}

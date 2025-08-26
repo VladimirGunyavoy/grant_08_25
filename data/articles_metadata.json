@@ -1,0 +1,1104 @@
+[
+  {
+    "title": "A method of optimal traction control for farm tractors with feedback of drive torque",
+    "authors": [
+      "Pavel V. Osinenko",
+      "Mike Geissler",
+      "Thomas Herlitzius"
+    ],
+    "journal": "Biosystems Engineering",
+    "year": "2015",
+    "doi": "10.1016/j.biosystemseng.2014.09.009",
+    "volume": "129",
+    "issue": "",
+    "pages": "20-33",
+    "publisher": "Elsevier BV",
+    "citations": null
+  },
+  {
+    "title": "Optimal traction control for heavy-duty vehicles",
+    "authors": [
+      "Pavel Osinenko",
+      "Stefan Streif"
+    ],
+    "journal": "Control Engineering Practice",
+    "year": "2017",
+    "doi": "10.1016/j.conengprac.2017.09.010",
+    "volume": "69",
+    "issue": "",
+    "pages": "99-111",
+    "publisher": "Elsevier BV",
+    "citations": null
+  },
+  {
+    "title": "Reinforcement learning with guarantees: a review",
+    "authors": [
+      "Pavel Osinenko",
+      "Dmitrii Dobriborsci",
+      "Wolfgang Aumer"
+    ],
+    "journal": "IFAC-PapersOnLine",
+    "year": "2022",
+    "doi": "10.1016/j.ifacol.2022.07.619",
+    "volume": "55",
+    "issue": "15",
+    "pages": "123-128",
+    "publisher": "Elsevier BV",
+    "citations": null
+  },
+  {
+    "title": "Application of non-destructive sensors and big data analysis to predict physiological storage disorders and fruit firmness in ‘Braeburn’ apples",
+    "authors": [
+      "Pavel Osinenko",
+      "Konni Biegert",
+      "Roy J. McCormick",
+      "Thomas Göhrt",
+      "Grigory Devadze",
+      "Josef Streif",
+      "Stefan Streif"
+    ],
+    "journal": "Computers and Electronics in Agriculture",
+    "year": "2021",
+    "doi": "10.1016/j.compag.2021.106015",
+    "volume": "183",
+    "issue": "",
+    "pages": "106015",
+    "publisher": "Elsevier BV",
+    "citations": null
+  },
+  {
+    "title": "Comprehensive Overview of Reward Engineering and Shaping in Advancing Reinforcement Learning Applications",
+    "authors": [
+      "Sinan Ibrahim",
+      "Mostafa Mostafa",
+      "Ali Jnadi",
+      "Hadi Salloum",
+      "Pavel Osinenko"
+    ],
+    "journal": "IEEE Access",
+    "year": "2024",
+    "doi": "10.1109/access.2024.3504735",
+    "volume": "12",
+    "issue": "",
+    "pages": "175473-175500",
+    "publisher": "Institute of Electrical and Electronics Engineers (IEEE)",
+    "citations": null
+  },
+  {
+    "title": "Assessment of soil roughness after tillage using spectral analysis",
+    "authors": [
+      "T. Bögel",
+      "P. Osinenko",
+      "Th. Herlitzius"
+    ],
+    "journal": "Soil and Tillage Research",
+    "year": "2016",
+    "doi": "10.1016/j.still.2016.02.004",
+    "volume": "159",
+    "issue": "",
+    "pages": "73-82",
+    "publisher": "Elsevier BV",
+    "citations": null
+  },
+  {
+    "title": "A reinforcement learning method with closed-loop stability guarantee",
+    "authors": [
+      "Pavel Osinenko",
+      "Lukas Beckenbach",
+      "Thomas Göhrt",
+      "Stefan Streif"
+    ],
+    "journal": "IFAC-PapersOnLine",
+    "year": "2020",
+    "doi": "10.1016/j.ifacol.2020.12.2237",
+    "volume": "53",
+    "issue": "2",
+    "pages": "8043-8048",
+    "publisher": "Elsevier BV",
+    "citations": null
+  },
+  {
+    "title": "A Q-learning predictive control scheme with guaranteed stability",
+    "authors": [
+      "Lukas Beckenbach",
+      "Pavel Osinenko",
+      "Stefan Streif"
+    ],
+    "journal": "European Journal of Control",
+    "year": "2020",
+    "doi": "10.1016/j.ejcon.2020.03.001",
+    "volume": "56",
+    "issue": "",
+    "pages": "167-178",
+    "publisher": "Elsevier BV",
+    "citations": null
+  },
+  {
+    "title": "Constrained and Stabilizing Stacked Adaptive Dynamic Programming and a Comparison with Model Predictive Control",
+    "authors": [
+      "Lukas Beckenbach",
+      "Pavel Osinenko",
+      "Thomas Gohrt",
+      "Stefan Streif"
+    ],
+    "journal": "2018 European Control Conference (ECC)",
+    "year": "2018",
+    "doi": "10.23919/ecc.2018.8550545",
+    "volume": "",
+    "issue": "",
+    "pages": "1349-1354",
+    "publisher": "IEEE",
+    "citations": null
+  },
+  {
+    "title": "Practical Sample-and-Hold Stabilization of Nonlinear Systems Under Approximate Optimizers",
+    "authors": [
+      "Pavel Osinenko",
+      "Lukas Beckenbach",
+      "Stefan Streif"
+    ],
+    "journal": "IEEE Control Systems Letters",
+    "year": "2018",
+    "doi": "10.1109/lcsys.2018.2845130",
+    "volume": "2",
+    "issue": "4",
+    "pages": "569-574",
+    "publisher": "Institute of Electrical and Electronics Engineers (IEEE)",
+    "citations": null
+  },
+  {
+    "title": "Addressing infinite-horizon optimization in MPC via Q-learning",
+    "authors": [
+      "Lukas Beckenbach",
+      "Pavel Osinenko",
+      "Stefan Streif"
+    ],
+    "journal": "IFAC-PapersOnLine",
+    "year": "2018",
+    "doi": "10.1016/j.ifacol.2018.10.175",
+    "volume": "51",
+    "issue": "20",
+    "pages": "60-65",
+    "publisher": "Elsevier BV",
+    "citations": null
+  },
+  {
+    "title": "On Inf-Convolution-Based Robust Practical Stabilization Under Computational Uncertainty",
+    "authors": [
+      "Patrick Schmidt",
+      "Pavel Osinenko",
+      "Stefan Streif"
+    ],
+    "journal": "IEEE Transactions on Automatic Control",
+    "year": "2021",
+    "doi": "10.1109/tac.2021.3052747",
+    "volume": "66",
+    "issue": "11",
+    "pages": "5530-5537",
+    "publisher": "Institute of Electrical and Electronics Engineers (IEEE)",
+    "citations": null
+  },
+  {
+    "title": "Stacked adaptive dynamic programming with unknown system model",
+    "authors": [
+      "Pavel Osinenko",
+      "Thomas Göhrt",
+      "Grigory Devadze",
+      "Stefan Streif"
+    ],
+    "journal": "IFAC-PapersOnLine",
+    "year": "2017",
+    "doi": "10.1016/j.ifacol.2017.08.803",
+    "volume": "50",
+    "issue": "1",
+    "pages": "4150-4155",
+    "publisher": "Elsevier BV",
+    "citations": null
+  },
+  {
+    "title": "Constructive analysis of control system stability",
+    "authors": [
+      "Pavel Osinenko",
+      "Grigory Devadze",
+      "Stefan Streif"
+    ],
+    "journal": "IFAC-PapersOnLine",
+    "year": "2017",
+    "doi": "10.1016/j.ifacol.2017.08.1520",
+    "volume": "50",
+    "issue": "1",
+    "pages": "7467-7474",
+    "publisher": "Elsevier BV",
+    "citations": null
+  },
+  {
+    "title": "Optimal Flow Factor Determination in Vanadium Redox Flow Battery Control",
+    "authors": [
+      "Alexander Morozov",
+      "Mikhail Pugach",
+      "Andrey Polyakov",
+      "Pavel Osinenko",
+      "Anton Bolychev",
+      "Vladimir Terzija",
+      "Sergei Parsegov"
+    ],
+    "journal": "IEEE Access",
+    "year": "2024",
+    "doi": "10.1109/access.2024.3361830",
+    "volume": "12",
+    "issue": "",
+    "pages": "19277-19284",
+    "publisher": "Institute of Electrical and Electronics Engineers (IEEE)",
+    "citations": null
+  },
+  {
+    "title": "On Stochastic Stabilization via Nonsmooth Control Lyapunov Functions",
+    "authors": [
+      "Pavel Osinenko",
+      "Grigory Yaremenko",
+      "Georgiy Malaniya"
+    ],
+    "journal": "IEEE Transactions on Automatic Control",
+    "year": "2022",
+    "doi": "10.1109/tac.2022.3211986",
+    "volume": "68",
+    "issue": "8",
+    "pages": "4925-4931",
+    "publisher": "Institute of Electrical and Electronics Engineers (IEEE)",
+    "citations": null
+  },
+  {
+    "title": "Adaptive unscented Kaiman filter with a fuzzy supervisor for electrified drive train tractors",
+    "authors": [
+      "Pavel Osinenko",
+      "Mike Geissler",
+      "Thomas Herlitzius"
+    ],
+    "journal": "2014 IEEE International Conference on Fuzzy Systems (FUZZ-IEEE)",
+    "year": "2014",
+    "doi": "10.1109/fuzz-ieee.2014.6891532",
+    "volume": "",
+    "issue": "",
+    "pages": "322-331",
+    "publisher": "IEEE",
+    "citations": null
+  },
+  {
+    "title": "Effects of Sampling and Prediction Horizon in Reinforcement Learning",
+    "authors": [
+      "Pavel Osinenko",
+      "Dmitrii Dobriborsci"
+    ],
+    "journal": "IEEE Access",
+    "year": "2021",
+    "doi": "10.1109/access.2021.3112498",
+    "volume": "9",
+    "issue": "",
+    "pages": "127611-127618",
+    "publisher": "Institute of Electrical and Electronics Engineers (IEEE)",
+    "citations": null
+  },
+  {
+    "title": "Experimental results of slip control with a fuzzy-logic-assisted unscented Kalman filter for state estimation",
+    "authors": [
+      "Pavel Osinenko",
+      "Mike Geissler",
+      "Thomas Herlitzius",
+      "Stefan Streif"
+    ],
+    "journal": "2016 IEEE International Conference on Fuzzy Systems (FUZZ-IEEE)",
+    "year": "2016",
+    "doi": "10.1109/fuzz-ieee.2016.7737728",
+    "volume": "",
+    "issue": "",
+    "pages": "501-507",
+    "publisher": "IEEE",
+    "citations": null
+  },
+  {
+    "title": "A Generalized Stacked Reinforcement Learning Method for Sampled Systems",
+    "authors": [
+      "Pavel Osinenko",
+      "Dmitrii Dobriborsci",
+      "Grigory Yaremenko",
+      "Georgiy Malaniya"
+    ],
+    "journal": "IEEE Transactions on Automatic Control",
+    "year": "2023",
+    "doi": "10.1109/tac.2023.3250032",
+    "volume": "68",
+    "issue": "11",
+    "pages": "7006-7013",
+    "publisher": "Institute of Electrical and Electronics Engineers (IEEE)",
+    "citations": null
+  },
+  {
+    "title": "Experimental verification of an online traction parameter identification method",
+    "authors": [
+      "Alexander Kobelski",
+      "Pavel Osinenko",
+      "Stefan Streif"
+    ],
+    "journal": "Control Engineering Practice",
+    "year": "2021",
+    "doi": "10.1016/j.conengprac.2021.104837",
+    "volume": "113",
+    "issue": "",
+    "pages": "104837",
+    "publisher": "Elsevier BV",
+    "citations": null
+  },
+  {
+    "title": "Practical stability analysis of sliding‐mode control with explicit computation of sampling time",
+    "authors": [
+      "Pavel Osinenko",
+      "Grigory Devadze",
+      "Stefan Streif"
+    ],
+    "journal": "Asian Journal of Control",
+    "year": "2020",
+    "doi": "10.1002/asjc.2027",
+    "volume": "22",
+    "issue": "4",
+    "pages": "1692-1699",
+    "publisher": "Wiley",
+    "citations": null
+  },
+  {
+    "title": "Model predictive control with stage cost shaping inspired by reinforcement learning",
+    "authors": [
+      "Lukas Beckenbach",
+      "Pavel Osinenko",
+      "Stefan Streif"
+    ],
+    "journal": "2019 IEEE 58th Conference on Decision and Control (CDC)",
+    "year": "2019",
+    "doi": "10.1109/cdc40024.2019.9030185",
+    "volume": "",
+    "issue": "",
+    "pages": "7110-7115",
+    "publisher": "IEEE",
+    "citations": null
+  },
+  {
+    "title": "Adaptive Dynamic Programming Using Lyapunov Function Constraints",
+    "authors": [
+      "Thomas Gohrt",
+      "Pavel Osinenko",
+      "Stefan Streif"
+    ],
+    "journal": "IEEE Control Systems Letters",
+    "year": "2019",
+    "doi": "10.1109/lcsys.2019.2919439",
+    "volume": "3",
+    "issue": "4",
+    "pages": "901-906",
+    "publisher": "Institute of Electrical and Electronics Engineers (IEEE)",
+    "citations": null
+  },
+  {
+    "title": "Critic as Lyapunov function (CALF): a model-free, stability-ensuring agent",
+    "authors": [
+      "Pavel Osinenko",
+      "Grigory Yaremenko",
+      "Roman Zashchitin",
+      "Anton Bolychev",
+      "Sinan Ibrahim",
+      "Dmitrii Dobriborsci"
+    ],
+    "journal": "2024 IEEE 63rd Conference on Decision and Control (CDC)",
+    "year": "2024",
+    "doi": "10.1109/cdc56724.2024.10886034",
+    "volume": "",
+    "issue": "",
+    "pages": "2517-2524",
+    "publisher": "IEEE",
+    "citations": null
+  },
+  {
+    "title": "On closed-loop stability of model predictive controllers with learning costs",
+    "authors": [
+      "Lukas Beckenbach",
+      "Pavel Osinenko",
+      "Stefan Streif"
+    ],
+    "journal": "2020 European Control Conference (ECC)",
+    "year": "2020",
+    "doi": "10.23919/ecc51009.2020.9143704",
+    "volume": "",
+    "issue": "",
+    "pages": "184-189",
+    "publisher": "IEEE",
+    "citations": null
+  },
+  {
+    "title": "A method of online traction parameter identification and mapping",
+    "authors": [
+      "Alexander Kobelski",
+      "Pavel Osinenko",
+      "Stefan Streif"
+    ],
+    "journal": "IFAC-PapersOnLine",
+    "year": "2020",
+    "doi": "10.1016/j.ifacol.2020.12.909",
+    "volume": "53",
+    "issue": "2",
+    "pages": "13933-13938",
+    "publisher": "Elsevier BV",
+    "citations": null
+  },
+  {
+    "title": "Assessment of soil roughness after tillage using spectral analysis",
+    "authors": [
+      "T. Bögel",
+      "P. Osinenko",
+      "Th. Herlitzius"
+    ],
+    "journal": "Soil and Tillage Research",
+    "year": "2016",
+    "doi": "10.1016/j.still.2016.02.004",
+    "volume": "159",
+    "issue": "",
+    "pages": "73-82",
+    "publisher": "Elsevier BV",
+    "citations": null
+  },
+  {
+    "title": "An experimental study of two predictive reinforcement learning methods and comparison with model-predictive control",
+    "authors": [
+      "Dmitrii Dobriborsci",
+      "Pavel Osinenko",
+      "Wolfgang Aumer"
+    ],
+    "journal": "IFAC-PapersOnLine",
+    "year": "2022",
+    "doi": "10.1016/j.ifacol.2022.09.610",
+    "volume": "55",
+    "issue": "10",
+    "pages": "1545-1550",
+    "publisher": "Elsevier BV",
+    "citations": null
+  },
+  {
+    "title": "A Study of First-Passage Time Minimization via Q-Learning in Heated Gridworlds",
+    "authors": [
+      "Maria A. Larchenko",
+      "Pavel Osinenko",
+      "Grigory Yaremenko",
+      "Vladimir V. Palyulin"
+    ],
+    "journal": "IEEE Access",
+    "year": "2021",
+    "doi": "10.1109/access.2021.3129709",
+    "volume": "9",
+    "issue": "",
+    "pages": "159349-159363",
+    "publisher": "Institute of Electrical and Electronics Engineers (IEEE)",
+    "citations": null
+  },
+  {
+    "title": "A reinforcement learning method with closed-loop stability guarantee for systems with unknown parameters",
+    "authors": [
+      "Thomas Göhrt",
+      "Fritjof Griesing-Scheiwe",
+      "Pavel Osinenko",
+      "Stefan Streif"
+    ],
+    "journal": "IFAC-PapersOnLine",
+    "year": "2020",
+    "doi": "10.1016/j.ifacol.2020.12.2303",
+    "volume": "53",
+    "issue": "2",
+    "pages": "8157-8162",
+    "publisher": "Elsevier BV",
+    "citations": null
+  },
+  {
+    "title": "Constructive Analysis of Eigenvalue Problems in Control under Numerical Uncertainty",
+    "authors": [
+      "Pavel Osinenko",
+      "Grigory Devadze",
+      "Stefan Streif"
+    ],
+    "journal": "International Journal of Control, Automation and Systems",
+    "year": "2020",
+    "doi": "10.1007/s12555-018-0571-2",
+    "volume": "18",
+    "issue": "9",
+    "pages": "2177-2185",
+    "publisher": "Springer Science and Business Media LLC",
+    "citations": null
+  },
+  {
+    "title": "Optimal control of centrifugal spreader",
+    "authors": [
+      "Franz Rußwurm",
+      "Pavel Osinenko",
+      "Stefan Streif"
+    ],
+    "journal": "IFAC-PapersOnLine",
+    "year": "2020",
+    "doi": "10.1016/j.ifacol.2020.12.239",
+    "volume": "53",
+    "issue": "2",
+    "pages": "15841-15846",
+    "publisher": "Elsevier BV",
+    "citations": null
+  },
+  {
+    "title": "Adaptive actor-critic structure for parametrized controllers",
+    "authors": [
+      "Thomas Göhrt",
+      "Pavel Osinenko",
+      "Stefan Streif"
+    ],
+    "journal": "IFAC-PapersOnLine",
+    "year": "2019",
+    "doi": "10.1016/j.ifacol.2019.12.036",
+    "volume": "52",
+    "issue": "16",
+    "pages": "652-657",
+    "publisher": "Elsevier BV",
+    "citations": null
+  },
+  {
+    "title": "Analysis of the Caratheodory s theorem on dynamical system trajectories under numerical uncertainty",
+    "authors": [
+      "Pavel Osinenko",
+      "Grigory Devadze",
+      "Stefan Streif"
+    ],
+    "journal": "IEEE/CAA Journal of Automatica Sinica",
+    "year": "2018",
+    "doi": "10.1109/jas.2018.7511135",
+    "volume": "5",
+    "issue": "4",
+    "pages": "787-793",
+    "publisher": "Institute of Electrical and Electronics Engineers (IEEE)",
+    "citations": null
+  },
+  {
+    "title": "Fuzzy-logic assisted power management for electrified mobile machinery",
+    "authors": [
+      "P. Osinenko",
+      "M. Geißler",
+      "Th. Herlitzius"
+    ],
+    "journal": "Neurocomputing",
+    "year": "2015",
+    "doi": "10.1016/j.neucom.2015.04.095",
+    "volume": "170",
+    "issue": "",
+    "pages": "439-447",
+    "publisher": "Elsevier BV",
+    "citations": null
+  },
+  {
+    "title": "Neural Network-Based Classification for Automated Powdery Mildew Detection in Modern Tomato Greenhouses",
+    "authors": [
+      "Ilya Osokin",
+      "Ilya Ryakin",
+      "Sina Moghimi",
+      "Mikhail Patrikeev",
+      "Ilya Barsky",
+      "Pavel Osinenko"
+    ],
+    "journal": "IEEE Access",
+    "year": "2024",
+    "doi": "10.1109/access.2024.3409074",
+    "volume": "12",
+    "issue": "",
+    "pages": "86782-86789",
+    "publisher": "Institute of Electrical and Electronics Engineers (IEEE)",
+    "citations": null
+  },
+  {
+    "title": "On stochastic stabilization of sampled systems",
+    "authors": [
+      "Pavel Osinenko",
+      "Grigory Yaremenko"
+    ],
+    "journal": "2021 60th IEEE Conference on Decision and Control (CDC)",
+    "year": "2021",
+    "doi": "10.1109/cdc45484.2021.9682838",
+    "volume": "",
+    "issue": "",
+    "pages": "5326-5331",
+    "publisher": "IEEE",
+    "citations": null
+  },
+  {
+    "title": "Towards a Constructive Framework for Control Theory",
+    "authors": [
+      "Pavel Osinenko"
+    ],
+    "journal": "IEEE Control Systems Letters",
+    "year": "2021",
+    "doi": "10.1109/lcsys.2021.3076972",
+    "volume": "6",
+    "issue": "",
+    "pages": "379-384",
+    "publisher": "Institute of Electrical and Electronics Engineers (IEEE)",
+    "citations": null
+  },
+  {
+    "title": "Analysis of extremum value theorems for function spaces in optimal control under numerical uncertainty",
+    "authors": [
+      "P Osinenko",
+      "S Streif"
+    ],
+    "journal": "IMA Journal of Mathematical Control and Information",
+    "year": "2019",
+    "doi": "10.1093/imamci/dny018",
+    "volume": "36",
+    "issue": "3",
+    "pages": "1015-1032",
+    "publisher": "Oxford University Press (OUP)",
+    "citations": null
+  },
+  {
+    "title": "A constructive version of the extremum value theorem for spaces of vector-valued functions",
+    "authors": [
+      "Pavel Osinenko",
+      "Stefan Streif"
+    ],
+    "journal": "Journal of Logic and Analysis",
+    "year": "2018",
+    "doi": "10.4115/jla.2018.10.4",
+    "volume": "",
+    "issue": "",
+    "pages": "",
+    "publisher": "Journal of Logic and Analysis",
+    "citations": null
+  },
+  {
+    "title": "An Actor-Critic Framework for Online Control With Environment Stability Guarantee",
+    "authors": [
+      "Pavel Osinenko",
+      "Grigory Yaremenko",
+      "Georgiy Malaniya",
+      "Anton Bolychev"
+    ],
+    "journal": "IEEE Access",
+    "year": "2023",
+    "doi": "10.1109/access.2023.3306070",
+    "volume": "11",
+    "issue": "",
+    "pages": "89188-89204",
+    "publisher": "Institute of Electrical and Electronics Engineers (IEEE)",
+    "citations": null
+  },
+  {
+    "title": "Nonsmooth stabilization and its computational aspects",
+    "authors": [
+      "Pavel Osinenko",
+      "Patrick Schmidt",
+      "Stefan Streif"
+    ],
+    "journal": "IFAC-PapersOnLine",
+    "year": "2020",
+    "doi": "10.1016/j.ifacol.2020.12.1772",
+    "volume": "53",
+    "issue": "2",
+    "pages": "6370-6377",
+    "publisher": "Elsevier BV",
+    "citations": null
+  },
+  {
+    "title": "Converse Optimality for Discrete-Time Systems",
+    "authors": [
+      "Thomas Gohrt",
+      "Pavel Osinenko",
+      "Stefan Streif"
+    ],
+    "journal": "IEEE Transactions on Automatic Control",
+    "year": "2019",
+    "doi": "10.1109/tac.2019.2941425",
+    "volume": "65",
+    "issue": "5",
+    "pages": "2257-2264",
+    "publisher": "Institute of Electrical and Electronics Engineers (IEEE)",
+    "citations": null
+  },
+  {
+    "title": "Winding switching strategy for electric wheel drives in agricultural machinery",
+    "authors": [
+      "Mike Geissler",
+      "Pavel Osinenko",
+      "Thomas Herlitzius"
+    ],
+    "journal": "2015 IEEE International Conference on Industrial Technology (ICIT)",
+    "year": "2015",
+    "doi": "10.1109/icit.2015.7125204",
+    "volume": "",
+    "issue": "",
+    "pages": "851-856",
+    "publisher": "IEEE",
+    "citations": null
+  },
+  {
+    "title": "A stabilizing reinforcement learning approach for sampled systems with partially unknown models",
+    "authors": [
+      "Lukas Beckenbach",
+      "Pavel Osinenko",
+      "Stefan Streif"
+    ],
+    "journal": "International Journal of Robust and Nonlinear Control",
+    "year": "2024",
+    "doi": "10.1002/rnc.7626",
+    "volume": "34",
+    "issue": "18",
+    "pages": "12389-12412",
+    "publisher": "Wiley",
+    "citations": null
+  },
+  {
+    "title": "Model-based reinforcement learning experimental study for mobile robot navigation",
+    "authors": [
+      "Dmitrii Dobriborsci",
+      "Ilya Chichkanov",
+      "Roman Zashchitin",
+      "Pavel Osinenko"
+    ],
+    "journal": "2024 10th International Conference on Control, Decision and Information Technologies (CoDIT)",
+    "year": "2024",
+    "doi": "10.1109/codit62066.2024.10708080",
+    "volume": "16",
+    "issue": "",
+    "pages": "1825-1830",
+    "publisher": "IEEE",
+    "citations": null
+  },
+  {
+    "title": "Reward Planning For Underactuated Robotic Systems With Parameters Uncertainty: Greedy-Divide and Conquer",
+    "authors": [
+      "Sinan Ibrahim",
+      "S. M. Ahsan Kazmi",
+      "Dmitrii Dobriborsci",
+      "Roman Zashchitin",
+      "Mostafa Mostafa",
+      "Pavel Osinenko"
+    ],
+    "journal": "2024 10th International Conference on Control, Decision and Information Technologies (CoDIT)",
+    "year": "2024",
+    "doi": "10.1109/codit62066.2024.10708603",
+    "volume": "33",
+    "issue": "",
+    "pages": "1518-1523",
+    "publisher": "IEEE",
+    "citations": null
+  },
+  {
+    "title": "Distributed State Estimation for Multi-Area Data Reconciliation",
+    "authors": [
+      "Victoria Erofeeva",
+      "Sergei Parsegov",
+      "Pavel Osinenko",
+      "Shyam Kamal"
+    ],
+    "journal": "2023 31st Mediterranean Conference on Control and Automation (MED)",
+    "year": "2023",
+    "doi": "10.1109/med59994.2023.10185911",
+    "volume": "",
+    "issue": "",
+    "pages": "954-959",
+    "publisher": "IEEE",
+    "citations": null
+  },
+  {
+    "title": "On Constructive Extractability of Measurable Selectors of Set-Valued Maps",
+    "authors": [
+      "Pavel Osinenko",
+      "Stefan Streif"
+    ],
+    "journal": "IEEE Transactions on Automatic Control",
+    "year": "2020",
+    "doi": "10.1109/tac.2020.3025303",
+    "volume": "66",
+    "issue": "8",
+    "pages": "3757-3764",
+    "publisher": "Institute of Electrical and Electronics Engineers (IEEE)",
+    "citations": null
+  },
+  {
+    "title": "Machine Learning-Based Classification of Suspension Droplet-Solid Wall Impacts for Control of Droplet Fragmentation",
+    "authors": [
+      "Mikhail Vulf",
+      "Dmitry Zharikov",
+      "Dmitry Kolomenskiy",
+      "Dmitry Eskin",
+      "Pavel Osinenko"
+    ],
+    "journal": "IEEE Access",
+    "year": "2025",
+    "doi": "10.1109/access.2025.3594877",
+    "volume": "13",
+    "issue": "",
+    "pages": "137179-137208",
+    "publisher": "Institute of Electrical and Electronics Engineers (IEEE)",
+    "citations": null
+  },
+  {
+    "title": "Tangerine Volume Estimation by Point Cloud Data with Neural Networks",
+    "authors": [
+      "Ilya Osokin",
+      "Ilya Ryakin",
+      "Sina Moghimi",
+      "Sergei Davidenko",
+      "Vladimir Guneavoi",
+      "Grigory Yaremenko",
+      "Pavel Osinenko"
+    ],
+    "journal": "2025 IEEE 26th International Conference of Young Professionals in Electron Devices and Materials (EDM)",
+    "year": "2025",
+    "doi": "10.1109/edm65517.2025.11096782",
+    "volume": "",
+    "issue": "",
+    "pages": "1200-1203",
+    "publisher": "IEEE",
+    "citations": null
+  },
+  {
+    "title": "Regelum: Graph Dependency Resolution and Execution Orchestration for Control Systems",
+    "authors": [
+      "Georgiy Malaniya",
+      "Anton Bolychev",
+      "Pavel Osinenko",
+      "Grigory Yaremenko"
+    ],
+    "journal": "2025 IEEE 26th International Conference of Young Professionals in Electron Devices and Materials (EDM)",
+    "year": "2025",
+    "doi": "10.1109/edm65517.2025.11096894",
+    "volume": "",
+    "issue": "",
+    "pages": "1470-1475",
+    "publisher": "IEEE",
+    "citations": null
+  },
+  {
+    "title": "On Limitations of Ensuring Stability in Reinforcement Learning Under Robustifying Control",
+    "authors": [
+      "Georgiy Malaniya",
+      "Anton Bolychev",
+      "Grigory Yaremenko",
+      "Pavel Osinenko"
+    ],
+    "journal": "2025 IEEE 26th International Conference of Young Professionals in Electron Devices and Materials (EDM)",
+    "year": "2025",
+    "doi": "10.1109/edm65517.2025.11096857",
+    "volume": "",
+    "issue": "",
+    "pages": "1270-1275",
+    "publisher": "IEEE",
+    "citations": null
+  },
+  {
+    "title": "A Probabilistic Mechanism for Safe Reinforcement Learning",
+    "authors": [
+      "Grigory Yaremenko",
+      "Anton Bolychev",
+      "Georgiy Malaniya",
+      "Pavel Osinenko"
+    ],
+    "journal": "2025 IEEE 26th International Conference of Young Professionals in Electron Devices and Materials (EDM)",
+    "year": "2025",
+    "doi": "10.1109/edm65517.2025.11096815",
+    "volume": "",
+    "issue": "",
+    "pages": "1230-1235",
+    "publisher": "IEEE",
+    "citations": null
+  },
+  {
+    "title": "Tangerine Volume Estimation by RANSAC on Point Cloud Data",
+    "authors": [
+      "Ilya Ryakin",
+      "Ilya Osokin",
+      "Sina Moghimi",
+      "Sergei Davidenko",
+      "Vladimir Guneavoi",
+      "Grigory Yaremenko",
+      "Pavel Osinenko"
+    ],
+    "journal": "2025 IEEE 26th International Conference of Young Professionals in Electron Devices and Materials (EDM)",
+    "year": "2025",
+    "doi": "10.1109/edm65517.2025.11096824",
+    "volume": "",
+    "issue": "",
+    "pages": "1300-1303",
+    "publisher": "IEEE",
+    "citations": null
+  },
+  {
+    "title": "Moduslam: A Modular Framework for Factor Graph-Based Localization and Mapping",
+    "authors": [
+      "Mark Griguletskii",
+      "Pavel Osinenko"
+    ],
+    "journal": "2025 IEEE 26th International Conference of Young Professionals in Electron Devices and Materials (EDM)",
+    "year": "2025",
+    "doi": "10.1109/edm65517.2025.11096772",
+    "volume": "",
+    "issue": "",
+    "pages": "1210-1215",
+    "publisher": "IEEE",
+    "citations": null
+  },
+  {
+    "title": "Generating Informative Benchmarks for Reinforcement Learning",
+    "authors": [
+      "Grigory Yamerenko",
+      "Sinan Ibrahim",
+      "Francisco Moreno-Mora",
+      "Pavel Osinenko",
+      "Stefan Streif"
+    ],
+    "journal": "IEEE Control Systems Letters",
+    "year": "2025",
+    "doi": "10.1109/lcsys.2025.3573943",
+    "volume": "9",
+    "issue": "",
+    "pages": "480-485",
+    "publisher": "Institute of Electrical and Electronics Engineers (IEEE)",
+    "citations": null
+  },
+  {
+    "title": "On the RANSAC Performance for Quadric Surfaces in Noisy Conditions",
+    "authors": [
+      "Ilya Ryakin",
+      "Sina Moghimi",
+      "Vladimir Guneavoy",
+      "Sergei Davidenko",
+      "Mikhail Patrikeev",
+      "Ilya Osokin",
+      "Pavel Osinenko"
+    ],
+    "journal": "IEEE Access",
+    "year": "2025",
+    "doi": "10.1109/access.2025.3556757",
+    "volume": "13",
+    "issue": "",
+    "pages": "66984-66993",
+    "publisher": "Institute of Electrical and Electronics Engineers (IEEE)",
+    "citations": null
+  },
+  {
+    "title": "Some Remarks on Robustness of Sample-and-Hold Stabilization",
+    "authors": [
+      "Patrick Schmidt",
+      "Pavel Osinenko",
+      "Stefan Streif"
+    ],
+    "journal": "IEEE Control Systems Letters",
+    "year": "2025",
+    "doi": "10.1109/lcsys.2025.3546990",
+    "volume": "8",
+    "issue": "",
+    "pages": "3464-3469",
+    "publisher": "Institute of Electrical and Electronics Engineers (IEEE)",
+    "citations": null
+  },
+  {
+    "title": "Some Remarks on Practical Stabilization via CLF-Based Control Under Measurement Noise",
+    "authors": [
+      "Patrick Schmidt",
+      "Pavel Osinenko",
+      "Stefan Streif"
+    ],
+    "journal": "IEEE Access",
+    "year": "2024",
+    "doi": "10.1109/access.2024.3521048",
+    "volume": "13",
+    "issue": "",
+    "pages": "1882-1895",
+    "publisher": "Institute of Electrical and Electronics Engineers (IEEE)",
+    "citations": null
+  },
+  {
+    "title": "Optimizing Energy Consumption for Legged Robot by Adapting Equilibrium Position and Stiffness of a Parallel Torsion Spring",
+    "authors": [
+      "Danil Belov",
+      "Artem Erkhov",
+      "Farit Khabibullin",
+      "Elisaveta Pestova",
+      "Sergei Satsevich",
+      "Ilya Osokin",
+      "Pavel Osinenko",
+      "Dzmitry Tsetserukou"
+    ],
+    "journal": "2024 IEEE International Conference on Robotics and Biomimetics (ROBIO)",
+    "year": "2024",
+    "doi": "10.1109/robio64047.2024.10907718",
+    "volume": "",
+    "issue": "",
+    "pages": "832-836",
+    "publisher": "IEEE",
+    "citations": null
+  },
+  {
+    "title": "Model-Free Control for Drop-on-Demand Droplet Generation Using Reinforcement Learning",
+    "authors": [
+      "Mikhail Vulf",
+      "Anton Bolychev",
+      "Dmitry Kolomenskiy",
+      "Pavel Osinenko"
+    ],
+    "journal": "2024 European Control Conference (ECC)",
+    "year": "2024",
+    "doi": "10.23919/ecc64448.2024.10591295",
+    "volume": "",
+    "issue": "",
+    "pages": "2534-2539",
+    "publisher": "IEEE",
+    "citations": null
+  },
+  {
+    "title": "Sliding Mode Control for a Class of Systems based on a Non-Monotonic Lyapunov Function",
+    "authors": [
+      "Parijat Prasun",
+      "Vijay Kumar Singh",
+      "Vinay Pandey",
+      "Shyam Kamal",
+      "Sandip Ghosh",
+      "Pavel Osinenko",
+      "Sergei Parsegov"
+    ],
+    "journal": "2023 31st Mediterranean Conference on Control and Automation (MED)",
+    "year": "2023",
+    "doi": "10.1109/med59994.2023.10185877",
+    "volume": "",
+    "issue": "",
+    "pages": "618-623",
+    "publisher": "IEEE",
+    "citations": null
+  },
+  {
+    "title": "Effects of Sampling and Prediction Horizon in Reinforcement Learning",
+    "authors": [
+      "Pavel Osinenko",
+      "Dmitrii Dobriborsci"
+    ],
+    "journal": "IEEE Access",
+    "year": "2021",
+    "doi": "10.1109/access.2021.3112498",
+    "volume": "9",
+    "issue": "",
+    "pages": "127611-127618",
+    "publisher": "Institute of Electrical and Electronics Engineers (IEEE)",
+    "citations": null
+  },
+  {
+    "title": "A note on Flenner’s extension theorem",
+    "authors": [
+      "Patrick Graf"
+    ],
+    "journal": "manuscripta mathematica",
+    "year": "2016",
+    "doi": "10.1007/s00229-020-01233-y",
+    "volume": "165",
+    "issue": "3-4",
+    "pages": "597-603",
+    "publisher": "Springer Science and Business Media LLC",
+    "citations": null
+  }
+]

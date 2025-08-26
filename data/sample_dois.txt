@@ -1,0 +1,9 @@
+# Sample DOIs for testing
+# Each DOI should be on a separate line
+# Lines starting with # are comments
+
+10.1016/j.automatica.2020.109123
+10.1109/TAC.2019.2954721
+10.1016/j.ifacol.2020.12.1234
+10.1109/CDC.2018.8619599
+10.1016/j.sysconle.2019.104472

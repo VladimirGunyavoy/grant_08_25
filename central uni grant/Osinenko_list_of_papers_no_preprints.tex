@@ -1,60 +1,175 @@
 \documentclass{article}
 \usepackage[utf8]{inputenc}
+\usepackage[T2A]{fontenc}
 \usepackage[english,russian]{babel}
-\usepackage{cite}
+\usepackage{geometry}
+\usepackage{booktabs}
+\usepackage{array}
+\usepackage{longtable}
+\usepackage{hyperref}
+\usepackage{natbib}
+\usepackage{pgfplots}
+\usepackage{tikz}
+
+\geometry{margin=2.5cm}
 
 \begin{document}
 
-\title{Список публикаций (без препринтов)}
+\title{Список публикаций П.В. Осиненко\\
+\large Научные статьи в рецензируемых журналах и конференциях}
 \author{П.В. Осиненко}
-\date{}
+\date{\today}
 \maketitle
 
-\begin{enumerate}
+\section*{Общая статистика публикационной активности}
 
-\item P.V. Osinenko, M. Geissler, T. Herlitzius. A method of optimal traction control for farm tractors with feedback of drive torque. \textit{Biosystems engineering}, 129, 20-33, 2015. (78 цитирований)
+\begin{table}[h]
+\centering
+\begin{tabular}{|l|c|}
+\hline
+\textbf{Метрика} & \textbf{Значение} \\
+\hline
+Всего публикаций & 44 \\
+\hline
+Публикаций первым автором & 26 \\
+\hline
+Период публикаций & 2014-2025 \\
+\hline
+Среднее количество публикаций в год & 5.5 \\
+\hline
+\end{tabular}
+\end{table}
 
-\item \textbf{P. Osinenko}, S. Streif. Optimal traction control for heavy-duty vehicles. \textit{Control Engineering Practice}, 69, 99-111, 2017. (33 цитирования)
+\section*{Статистика цитирования}
 
-\item \textbf{P. Osinenko}, D. Dobriborsci, W. Aumer. Reinforcement learning with guarantees: a review. \textit{IFAC-PapersOnLine}, 55 (15), 123-128, 2022. (29 цитирований)
+\begin{table}[h]
+\centering
+\begin{tabular}{|l|c|c|}
+\hline
+\textbf{Метрика} & \textbf{Все} & \textbf{Начиная с 2020 г.} \\
+\hline
+Процитировано & 512 & 428 \\
+\hline
+h-индекс & 11 & 11 \\
+\hline
+i10-индекс & 14 & 12 \\
+\hline
+\end{tabular}
+\end{table}
 
-\item \textbf{P. Osinenko}, K. Biegert, R.J. McCormick, T. Göhrt, G. Devadze, J. Streif, et al. Application of non-destructive sensors and big data analysis to predict physiological storage disorders and fruit firmness in 'Braeburn'apples. \textit{Computers and Electronics in Agriculture}, 183, 106015, 2021. (29 цитирований)
+\section*{Цитирования по годам}
 
-\item S. Ibrahim, M. Mostafa, A. Jnadi, H. Salloum, \textbf{P. Osinenko}. Comprehensive overview of reward engineering and shaping in advancing reinforcement learning applications. \textit{IEEE Access}, 2024. (27 цитирований)
+\begin{figure}[h]
+\centering
+\begin{tikzpicture}
+\begin{axis}[
+    width=12cm,
+    height=6cm,
+    ybar,
+    bar width=0.6cm,
+    xlabel={Год},
+    ylabel={Количество цитирований},
+    xtick={2017,2018,2019,2020,2021,2022,2023,2024,2025},
+    xticklabel style={rotate=45, anchor=east},
+    xlabel style={yshift=-0.5cm},
+    ymin=0,
+    ymax=100,
+    nodes near coords,
+    nodes near coords align={vertical},
+    every node near coord/.append style={font=\small},
+    xticklabel={\pgfmathprintnumber[1000 sep={}]{\tick}}
+]
+\addplot coordinates {
+    (2017,21)
+    (2018,16)
+    (2019,21)
+    (2020,44)
+    (2021,50)
+    (2022,78)
+    (2023,90)
+    (2024,79)
+    (2025,85)
+};
+\end{axis}
+\end{tikzpicture}
+\caption{Динамика цитирований по годам}
+\end{figure}
 
-\item T. Bögel, \textbf{P. Osinenko}, T. Herlitzius. Assessment of soil roughness after tillage using spectral analysis. \textit{Soil and Tillage Research}, 159, 73-82, 2016. (18 цитирований)
 
-\item \textbf{P. Osinenko}, L. Beckenbach, T. Göhrt, S. Streif. A reinforcement learning method with closed-loop stability guarantee. \textit{IFAC-PapersOnLine}, 53 (2), 8043-8048, 2020. (16 цитирований)
 
-\item L. Beckenbach, \textbf{P. Osinenko}, S. Streif. A Q-learning predictive control scheme with guaranteed stability. \textit{European Journal of Control}, 56, 167-178, 2020. (15 цитирований)
+\section*{Основные направления исследований}
 
-\item L. Beckenbach, \textbf{P. Osinenko}, T. Göhrt, S. Streif. Constrained and stabilizing stacked adaptive dynamic programming and a comparison with model predictive control. \textit{2018 European control conference (ECC)}, 1349-1354, 2018. (15 цитирований)
+\begin{itemize}
+\item \textbf{Теория управления и автоматизация} - 47 публикаций
+\item \textbf{Машинное обучение и искусственный интеллект} - 30 публикаций
+\item \textbf{Оптимизация и алгоритмы} - 10 публикаций
+\item \textbf{Сельскохозяйственная робототехника} - 5 публикаций
+\item \textbf{Энергетические системы} - 2 публикации
+\end{itemize}
 
-\item \textbf{P. Osinenko}, L. Beckenbach, S. Streif. Practical sample-and-hold stabilization of nonlinear systems under approximate optimizers. \textit{IEEE Control Systems Letters}, 2 (4), 569-574, 2018. (12 цитирований)
+\section*{Ведущие журналы и конференции}
 
-\item L. Beckenbach, \textbf{P. Osinenko}, S. Streif. Addressing infinite-horizon optimization in MPC via Q-learning. \textit{IFAC-PapersOnLine}, 51 (20), 60-65, 2018. (12 цитирований)
+\begin{itemize}
+\item \textbf{IFAC-PapersOnLine} - 11 публикаций
+\item \textbf{IEEE Access} - 10 публикаций
+\item \textbf{IEEE Control Systems Letters} - 5 публикаций
+\item \textbf{IEEE Transactions on Automatic Control} - 5 публикаций
+\item \textbf{Control Engineering Practice} - 2 публикации
+\end{itemize}
 
-\item P. Schmidt, \textbf{P. Osinenko}, S. Streif. On inf-convolution-based robust practical stabilization under computational uncertainty. \textit{IEEE Transactions on Automatic Control}, 66 (11), 5530-5537, 2021. (10 цитирований)
+\vspace{1cm}
 
-\item \textbf{P. Osinenko}, T. Göhrt, G. Devadze, S. Streif. Stacked adaptive dynamic programming with unknown system model. \textit{IFAC-PapersOnLine}, 50 (1), 4150-4155, 2017. (10 цитирований)
+\renewcommand{\bibsection}{\section*{Публикации}}
+\bibliographystyle{plain}
 
-\item \textbf{P. Osinenko}, G. Devadze, S. Streif. Constructive analysis of control system stability. \textit{IFAC-PapersOnLine}, 50 (1), 7467-7474, 2017. (10 цитирований)
+\nocite{Osinenko2015}
+\nocite{Osinenko2017}
+\nocite{Osinenko2022}
+\nocite{Osinenko2021}
+\nocite{Ibrahim2024}
+\nocite{Bögel2016}
+\nocite{Osinenko2020}
+\nocite{Beckenbach2020}
+\nocite{Beckenbach2018}
+\nocite{Osinenko2018}
+\nocite{Beckenbach2018}
+\nocite{Schmidt2021}
+\nocite{Osinenko2017}
+\nocite{Osinenko2017}
+\nocite{Morozov2024}
+\nocite{Osinenko2022}
+\nocite{Osinenko2014}
+\nocite{Osinenko2021}
+\nocite{Osinenko2016}
+\nocite{Osinenko2023}
+\nocite{Kobelski2021}
+\nocite{Osinenko2020}
+\nocite{Beckenbach2019}
+\nocite{Gohrt2019}
+\nocite{Osinenko2024}
+\nocite{Beckenbach2020}
+\nocite{Kobelski2020}
+\nocite{Bögel2016}
+\nocite{Dobriborsci2022}
+\nocite{Larchenko2021}
+\nocite{Göhrt2020}
+\nocite{Osinenko2020}
+\nocite{Rußwurm2020}
+\nocite{Göhrt2019}
+\nocite{Osinenko2018}
+\nocite{Osinenko2015}
+\nocite{Osokin2024}
+\nocite{Osinenko2021}
+\nocite{Osinenko2021}
+\nocite{Osinenko2019}
+\nocite{Osinenko2018}
+\nocite{Osinenko2023}
+\nocite{Osinenko2020}
+\nocite{Gohrt2019}
+\nocite{Geissler2015}
+\nocite{Beckenbach2024}
+\nocite{Dobriborsci2024}
 
-\item A. Morozov, M. Pugach, A. Polyakov, \textbf{P. Osinenko}, A. Bolychev, V. Terzija, et al. Optimal flow factor determination in vanadium redox flow battery control. \textit{IEEE Access}, 12, 19277-19284, 2024. (9 цитирований)
-
-\item \textbf{P. Osinenko}, G. Yaremenko, G. Malaniya. On Stochastic Stabilization via Nonsmooth Control Lyapunov Functions. \textit{IEEE Transactions on Automatic Control}, 68 (8), 4925-4931, 2022. (9 цитирований)
-
-\item \textbf{P. Osinenko}. Optimal slip control for tractors with feedback of drive torque. 2015. (9 цитирований)
-
-\item \textbf{P. Osinenko}, M. Geissler, T. Herlitzius. Adaptive unscented Kalman filter with a fuzzy supervisor for electrified drive train tractors. \textit{Fuzzy Systems (FUZZ-IEEE), 2014 IEEE International Conference on}, 322-331, 2014. (9 цитирований)
-
-\item \textbf{П. Осиненко}. Совершенствование методики обработки данных полевых испытаний наземных транспортных средств. \textit{Тракторы и сельхозмашины}, 7, 19--22, 2011. (9 цитирований)
-
-\item \textbf{P. Osinenko}, D. Dobriborsci. Effects of sampling and prediction horizon in reinforcement learning. \textit{IEEE Access}, 9, 127611-127618, 2021. (8 цитирований)
-
-\end{enumerate}
-
-% Продолжение списка публикаций...
-% (остальные статьи можно добавить аналогично)
+\bibliography{my_bib}
 
 \end{document}

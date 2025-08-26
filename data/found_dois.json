@@ -1,0 +1,110 @@
+[
+  {
+    "title": "A method of optimal traction control for farm tractors with feedback of drive torque",
+    "authors": "PV Osinenko, M Geissler, T Herlitzius",
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=ru&user=bROxyNoAAAAJ&citation_for_view=bROxyNoAAAAJ:d1gkVwhDpl0C",
+    "doi": "10.1016/j.biosystemseng.2014.09.009"
+  },
+  {
+    "title": "Optimal traction control for heavy-duty vehicles",
+    "authors": "P Osinenko, S Streif",
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=ru&user=bROxyNoAAAAJ&citation_for_view=bROxyNoAAAAJ:_FxGoFyzp5QC",
+    "doi": "10.1016/j.conengprac.2017.09.010"
+  },
+  {
+    "title": "Reinforcement learning with guarantees: a review",
+    "authors": "P Osinenko, D Dobriborsci, W Aumer",
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=ru&user=bROxyNoAAAAJ&citation_for_view=bROxyNoAAAAJ:tkaPQYYpVKoC",
+    "doi": "10.1016/j.ifacol.2022.07.619"
+  },
+  {
+    "title": "Application of non-destructive sensors and big data analysis to predict physiological storage disorders and fruit firmness in ‘Braeburn’apples",
+    "authors": "P Osinenko, K Biegert, RJ McCormick, T Göhrt, G Devadze, J Streif, ...",
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=ru&user=bROxyNoAAAAJ&citation_for_view=bROxyNoAAAAJ:geHnlv5EZngC",
+    "doi": "10.1016/j.compag.2021.106015"
+  },
+  {
+    "title": "Comprehensive overview of reward engineering and shaping in advancing reinforcement learning applications",
+    "authors": "S Ibrahim, M Mostafa, A Jnadi, H Salloum, P Osinenko",
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=ru&user=bROxyNoAAAAJ&citation_for_view=bROxyNoAAAAJ:PR6Y55bgFSsC",
+    "doi": "10.1109/access.2024.3504735"
+  },
+  {
+    "title": "Assessment of soil roughness after tillage using spectral analysis",
+    "authors": "T Bögel, P Osinenko, T Herlitzius",
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=ru&user=bROxyNoAAAAJ&citation_for_view=bROxyNoAAAAJ:W7OEmFMy1HYC",
+    "doi": "10.1016/j.still.2016.02.004"
+  },
+  {
+    "title": "A reinforcement learning method with closed-loop stability guarantee",
+    "authors": "P Osinenko, L Beckenbach, T Göhrt, S Streif",
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=ru&user=bROxyNoAAAAJ&citation_for_view=bROxyNoAAAAJ:pyW8ca7W8N0C",
+    "doi": "10.1016/j.ifacol.2020.12.2237"
+  },
+  {
+    "title": "A Q-learning predictive control scheme with guaranteed stability",
+    "authors": "L Beckenbach, P Osinenko, S Streif",
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=ru&user=bROxyNoAAAAJ&citation_for_view=bROxyNoAAAAJ:dfsIfKJdRG4C",
+    "doi": "10.1016/j.ejcon.2020.03.001"
+  },
+  {
+    "title": "Constrained and stabilizing stacked adaptive dynamic programming and a comparison with model predictive control",
+    "authors": "L Beckenbach, P Osinenko, T Göhrt, S Streif",
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=ru&user=bROxyNoAAAAJ&citation_for_view=bROxyNoAAAAJ:kNdYIx-mwKoC",
+    "doi": "10.23919/ecc.2018.8550545"
+  },
+  {
+    "title": "Practical sample-and-hold stabilization of nonlinear systems under approximate optimizers",
+    "authors": "P Osinenko, L Beckenbach, S Streif",
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=ru&user=bROxyNoAAAAJ&citation_for_view=bROxyNoAAAAJ:hqOjcs7Dif8C",
+    "doi": "10.1109/lcsys.2018.2845130"
+  },
+  {
+    "title": "Addressing infinite-horizon optimization in MPC via Q-learning",
+    "authors": "L Beckenbach, P Osinenko, S Streif",
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=ru&user=bROxyNoAAAAJ&citation_for_view=bROxyNoAAAAJ:3fE2CSJIrl8C",
+    "doi": "10.1016/j.ifacol.2018.10.175"
+  },
+  {
+    "title": "On inf-convolution-based robust practical stabilization under computational uncertainty",
+    "authors": "P Schmidt, P Osinenko, S Streif",
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=ru&user=bROxyNoAAAAJ&citation_for_view=bROxyNoAAAAJ:sSrBHYA8nusC",
+    "doi": "10.1109/tac.2021.3052747"
+  },
+  {
+    "title": "Stacked adaptive dynamic programming with unknown system model",
+    "authors": "P Osinenko, T Göhrt, G Devadze, S Streif",
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=ru&user=bROxyNoAAAAJ&citation_for_view=bROxyNoAAAAJ:Se3iqnhoufwC",
+    "doi": "10.1016/j.ifacol.2017.08.803"
+  },
+  {
+    "title": "Constructive analysis of control system stability",
+    "authors": "P Osinenko, G Devadze, S Streif",
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=ru&user=bROxyNoAAAAJ&citation_for_view=bROxyNoAAAAJ:roLk4NBRz8UC",
+    "doi": "10.1016/j.ifacol.2017.08.1520"
+  },
+  {
+    "title": "Optimal flow factor determination in vanadium redox flow battery control",
+    "authors": "A Morozov, M Pugach, A Polyakov, P Osinenko, A Bolychev, V Terzija, ...",
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=ru&user=bROxyNoAAAAJ&citation_for_view=bROxyNoAAAAJ:LjlpjdlvIbIC",
+    "doi": "10.1109/access.2024.3361830"
+  },
+  {
+    "title": "On Stochastic Stabilization via Nonsmooth Control Lyapunov Functions",
+    "authors": "P Osinenko, G Yaremenko, G Malaniya",
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=ru&user=bROxyNoAAAAJ&citation_for_view=bROxyNoAAAAJ:eMMeJKvmdy0C",
+    "doi": "10.1109/tac.2022.3211986"
+  },
+  {
+    "title": "Adaptive unscented Kalman filter with a fuzzy supervisor for electrified drive train tractors",
+    "authors": "P Osinenko, M Geissler, T Herlitzius",
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=ru&user=bROxyNoAAAAJ&citation_for_view=bROxyNoAAAAJ:u-x6o8ySG0sC",
+    "doi": "10.1109/fuzz-ieee.2014.6891532"
+  },
+  {
+    "title": "Effects of sampling and prediction horizon in reinforcement learning",
+    "authors": "P Osinenko, D Dobriborsci",
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=ru&user=bROxyNoAAAAJ&citation_for_view=bROxyNoAAAAJ:HE397vMXCloC",
+    "doi": "10.1109/access.2021.3112498"
+  }
+]

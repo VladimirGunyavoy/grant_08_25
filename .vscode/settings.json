@@ -1,0 +1,78 @@
+{
+    "latex-workshop.latex.tools": [
+        {
+            "name": "pdflatex",
+            "command": "pdflatex",
+            "args": [
+                "-interaction=nonstopmode",
+                "-synctex=1",
+                "%DOC%"
+            ]
+        },
+        {
+            "name": "bibtex",
+            "command": "bibtex",
+            "args": [
+                "%DOCFILE%"
+            ]
+        },
+        {
+            "name": "clean",
+            "command": "rm",
+            "args": [
+                "-f",
+                "*.aux",
+                "*.log",
+                "*.out",
+                "*.bbl",
+                "*.blg",
+                "*.fdb_latexmk",
+                "*.fls",
+                "*.synctex.gz",
+                "*.toc",
+                "*.nav",
+                "*.snm"
+            ]
+        }
+    ],
+    "latex-workshop.latex.recipes": [
+        {
+            "name": "pdflatex -> bibtex -> pdflatex*2",
+            "tools": [
+                "pdflatex",
+                "bibtex",
+                "pdflatex",
+                "pdflatex",
+                "clean"
+            ]
+        },
+        {
+            "name": "pdflatex only",
+            "tools": [
+                "pdflatex",
+                "clean"
+            ]
+        }
+    ],
+    "latex-workshop.latex.autoClean.run": "onBuilt",
+    "latex-workshop.latex.clean.fileTypes": [
+        "*.aux",
+        "*.log",
+        "*.out",
+        "*.bbl",
+        "*.blg",
+        "*.fdb_latexmk",
+        "*.fls",
+        "*.synctex.gz",
+        "*.toc",
+        "*.nav",
+        "*.snm"
+    ],
+    "latex-workshop.latex.autoBuild.run": "onSave",
+    "latex-workshop.latex.recipe.outputs": [
+        "%DIR%/%DOCFILE%.pdf"
+    ],
+    "latex-workshop.view.pdf.viewer": "tab",
+    "latex-workshop.message.error.show": false,
+    "latex-workshop.message.warning.show": false
+}

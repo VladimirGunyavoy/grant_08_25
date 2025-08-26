@@ -1,0 +1,11 @@
+{
+    "recommendations": [
+        "James-Yu.latex-workshop",
+        "ms-python.python",
+        "ms-python.black-formatter",
+        "ms-python.flake8",
+        "ms-vscode.vscode-json",
+        "redhat.vscode-yaml",
+        "ms-vscode.makefile-tools"
+    ]
+}

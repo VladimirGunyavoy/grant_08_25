@@ -1,0 +1,43 @@
+{
+    "folders": [
+        {
+            "name": "AIDA Grant Project",
+            "path": "."
+        }
+    ],
+    "settings": {
+        "files.exclude": {
+            "**/*.aux": true,
+            "**/*.log": true,
+            "**/*.out": true,
+            "**/*.bbl": true,
+            "**/*.blg": true,
+            "**/*.fdb_latexmk": true,
+            "**/*.fls": true,
+            "**/*.synctex.gz": true,
+            "**/*.toc": true,
+            "**/*.nav": true,
+            "**/*.snm": true
+        },
+        "search.exclude": {
+            "**/node_modules": true,
+            "**/bower_components": true,
+            "**/*.code-search": true
+        },
+        "files.watcherExclude": {
+            "**/target": true,
+            "**/node_modules/**": true
+        }
+    },
+    "extensions": {
+        "recommendations": [
+            "James-Yu.latex-workshop",
+            "ms-python.python",
+            "ms-python.black-formatter",
+            "ms-python.flake8",
+            "ms-vscode.vscode-json",
+            "redhat.vscode-yaml",
+            "ms-vscode.makefile-tools"
+        ]
+    }
+}
