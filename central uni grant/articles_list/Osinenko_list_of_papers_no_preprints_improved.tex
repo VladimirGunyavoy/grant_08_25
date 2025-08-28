@@ -1,0 +1,128 @@
+\documentclass{article}
+\usepackage[utf8]{inputenc}
+\usepackage[T2A]{fontenc}
+\usepackage[english,russian]{babel}
+\usepackage{geometry}
+\usepackage{booktabs}
+\usepackage{array}
+\usepackage{longtable}
+\usepackage{hyperref}
+\usepackage[numbers]{natbib}
+\usepackage{pgfplots}
+\usepackage{tikz}
+
+\geometry{margin=2.5cm}
+
+\begin{document}
+
+\title{Список публикаций П.В. Осиненко\\
+\large Научные статьи в рецензируемых журналах и конференциях}
+\author{П.В. Осиненко}
+\date{\today}
+\maketitle
+
+\section*{Общая статистика публикационной активности}
+
+\begin{table}[h]
+\centering
+\begin{tabular}{|l|c|}
+\hline
+\textbf{Метрика} & \textbf{Значение} \\
+\hline
+Всего публикаций & 70+ \\
+\hline
+Публикаций первым автором & 40+ \\
+\hline
+Период публикаций & 2011-2025 \\
+\hline
+Среднее количество публикаций в год & 5.0 \\
+\hline
+\end{tabular}
+\end{table}
+
+\section*{Статистика цитирования}
+
+\begin{table}[h]
+\centering
+\begin{tabular}{|l|c|c|}
+\hline
+\textbf{Метрика} & \textbf{Все} & \textbf{Начиная с 2020 г.} \\
+\hline
+Процитировано & 600+ & 500+ \\
+\hline
+h-индекс & 12+ & 11+ \\
+\hline
+i10-индекс & 15+ & 13+ \\
+\hline
+\end{tabular}
+\end{table}
+
+\section*{Цитирования по годам}
+
+\begin{figure}[h]
+\centering
+\begin{tikzpicture}
+\begin{axis}[
+    width=12cm,
+    height=6cm,
+    ybar,
+    bar width=0.6cm,
+    xlabel={Год},
+    ylabel={Количество цитирований},
+    xtick={2017,2018,2019,2020,2021,2022,2023,2024,2025},
+    xticklabel style={rotate=45, anchor=east},
+    xlabel style={yshift=-0.5cm},
+    ymin=0,
+    ymax=120,
+    nodes near coords,
+    nodes near coords align={vertical},
+    every node near coord/.append style={font=\small},
+    xticklabel={\pgfmathprintnumber[1000 sep={}]{\tick}}
+]
+\addplot coordinates {
+    (2017,25)
+    (2018,20)
+    (2019,25)
+    (2020,50)
+    (2021,60)
+    (2022,90)
+    (2023,110)
+    (2024,95)
+    (2025,100)
+};
+\end{axis}
+\end{tikzpicture}
+\caption{Динамика цитирований по годам}
+\end{figure}
+
+\section*{Основные направления исследований}
+
+\begin{itemize}
+\item \textbf{Теория управления и автоматизация} - 50+ публикаций
+\item \textbf{Машинное обучение и искусственный интеллект} - 35+ публикаций
+\item \textbf{Оптимизация и алгоритмы} - 12+ публикаций
+\item \textbf{Сельскохозяйственная робототехника} - 8+ публикаций
+\item \textbf{Энергетические системы} - 3+ публикации
+\end{itemize}
+
+\section*{Ведущие журналы и конференции}
+
+\begin{itemize}
+\item \textbf{IFAC-PapersOnLine} - 15+ публикаций
+\item \textbf{IEEE Access} - 12+ публикаций
+\item \textbf{IEEE Control Systems Letters} - 6+ публикаций
+\item \textbf{IEEE Transactions on Automatic Control} - 6+ публикаций
+\item \textbf{Control Engineering Practice} - 3+ публикации
+\end{itemize}
+
+\vspace{1cm}
+
+\renewcommand{\bibsection}{\section*{Публикации}}
+\bibliographystyle{ieeetr}
+
+% Эффективное цитирование всех публикаций одной командой
+\nocite{*}
+
+\bibliography{my_bib}
+
+\end{document}

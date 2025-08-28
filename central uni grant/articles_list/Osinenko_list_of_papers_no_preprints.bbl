@@ -1,0 +1,381 @@
+\begin{thebibliography}{10}
+
+\bibitem{a_method_of_optimal_2015}
+P.~V. Osinenko, M.~Geissler, and T.~Herlitzius, ``A method of optimal traction
+  control for farm tractors with feedback of drive torque,'' {\em Biosystems
+  Engineering}, vol.~129, pp.~20--33, 2015.
+
+\bibitem{optimal_traction_control_for_2017}
+P.~Osinenko and S.~Streif, ``Optimal traction control for heavy-duty
+  vehicles,'' {\em Control Engineering Practice}, vol.~69, pp.~99--111, 2017.
+
+\bibitem{reinforcement_learning_with_guarantees_2022}
+P.~Osinenko, D.~Dobriborsci, and W.~Aumer, ``Reinforcement learning with
+  guarantees: a review,'' {\em IFAC-PapersOnLine}, vol.~55, no.~15,
+  pp.~123--128, 2022.
+
+\bibitem{application_of_nondestructive_sensors_2021}
+P.~Osinenko, K.~Biegert, R.~J. McCormick, T.~Göhrt, G.~Devadze, J.~Streif, and
+  S.~Streif, ``Application of non-destructive sensors and big data analysis to
+  predict physiological storage disorders and fruit firmness in ‘braeburn’
+  apples,'' {\em Computers and Electronics in Agriculture}, vol.~183,
+  p.~106015, 2021.
+
+\bibitem{comprehensive_overview_of_reward_2024}
+S.~Ibrahim, M.~Mostafa, A.~Jnadi, H.~Salloum, and P.~Osinenko, ``Comprehensive
+  overview of reward engineering and shaping in advancing reinforcement
+  learning applications,'' {\em IEEE Access}, vol.~12, pp.~175473--175500,
+  2024.
+
+\bibitem{assessment_of_soil_roughness_2016}
+T.~Bögel, P.~Osinenko, and T.~Herlitzius, ``Assessment of soil roughness after
+  tillage using spectral analysis,'' {\em Soil and Tillage Research}, vol.~159,
+  pp.~73--82, 2016.
+
+\bibitem{a_reinforcement_learning_method_2020}
+P.~Osinenko, L.~Beckenbach, T.~Göhrt, and S.~Streif, ``A reinforcement
+  learning method with closed-loop stability guarantee,'' {\em
+  IFAC-PapersOnLine}, vol.~53, no.~2, pp.~8043--8048, 2020.
+
+\bibitem{a_qlearning_predictive_control_2020}
+L.~Beckenbach, P.~Osinenko, and S.~Streif, ``A q-learning predictive control
+  scheme with guaranteed stability,'' {\em European Journal of Control},
+  vol.~56, pp.~167--178, 2020.
+
+\bibitem{constrained_and_stabilizing_stacked_2018}
+L.~Beckenbach, P.~Osinenko, T.~Gohrt, and S.~Streif, ``Constrained and
+  stabilizing stacked adaptive dynamic programming and a comparison with model
+  predictive control,'' {\em 2018 European Control Conference (ECC)},
+  pp.~1349--1354, 2018.
+
+\bibitem{practical_sampleandhold_stabilization_of_2018}
+P.~Osinenko, L.~Beckenbach, and S.~Streif, ``Practical sample-and-hold
+  stabilization of nonlinear systems under approximate optimizers,'' {\em IEEE
+  Control Systems Letters}, vol.~2, no.~4, pp.~569--574, 2018.
+
+\bibitem{addressing_infinitehorizon_optimization_in_2018}
+L.~Beckenbach, P.~Osinenko, and S.~Streif, ``Addressing infinite-horizon
+  optimization in mpc via q-learning,'' {\em IFAC-PapersOnLine}, vol.~51,
+  no.~20, pp.~60--65, 2018.
+\newblock 6th IFAC Conference on Nonlinear Model Predictive Control NMPC 2018.
+
+\bibitem{on_infconvolutionbased_robust_practical_2021}
+P.~Schmidt, P.~Osinenko, and S.~Streif, ``On inf-convolution-based robust
+  practical stabilization under computational uncertainty,'' {\em IEEE
+  Transactions on Automatic Control}, vol.~66, no.~11, pp.~5530--5537, 2021.
+
+\bibitem{stacked_adaptive_dynamic_programming_2017}
+P.~Osinenko, T.~Göhrt, G.~Devadze, and S.~Streif, ``Stacked adaptive dynamic
+  programming with unknown system model,'' {\em IFAC-PapersOnLine}, vol.~50,
+  no.~1, pp.~4150--4155, 2017.
+\newblock 20th IFAC World Congress.
+
+\bibitem{constructive_analysis_of_control_2017}
+P.~Osinenko, G.~Devadze, and S.~Streif, ``Constructive analysis of control
+  system stability,'' {\em IFAC-PapersOnLine}, vol.~50, no.~1, pp.~7467--7474,
+  2017.
+\newblock 20th IFAC World Congress.
+
+\bibitem{optimal_flow_factor_determination_2024}
+A.~Morozov, M.~Pugach, A.~Polyakov, P.~Osinenko, A.~Bolychev, V.~Terzija, and
+  S.~Parsegov, ``Optimal flow factor determination in vanadium redox flow
+  battery control,'' {\em IEEE Access}, vol.~12, pp.~19277--19284, 2024.
+
+\bibitem{on_stochastic_stabilization_via_2023}
+P.~Osinenko, G.~Yaremenko, and G.~Malaniya, ``On stochastic stabilization via
+  nonsmooth control lyapunov functions,'' {\em IEEE Transactions on Automatic
+  Control}, vol.~68, no.~8, pp.~4925--4931, 2023.
+
+\bibitem{optimal_slip_control_for_2015}
+P.~Osinenko, {\em Optimal slip control for tractors with feedback of drive
+  torque}.
+\newblock Dissertation, Technische Universität Dresden, Faculty of Mechanical
+  Science and Engineering, Dresden, Germany, 2015.
+\newblock Doktor der Ingenieurwissenschaften (Dr.-Ing.).
+
+\bibitem{adaptive_unscented_kaiman_filter_2014}
+P.~Osinenko, M.~Geissler, and T.~Herlitzius, ``Adaptive unscented kaiman filter
+  with a fuzzy supervisor for electrified drive train tractors,'' {\em 2014
+  IEEE International Conference on Fuzzy Systems (FUZZ-IEEE)}, pp.~322--331,
+  2014.
+
+\bibitem{improving_data_processing_methods_2011}
+O.~P.V., ``Improving data processing methods for ground vehicle testing,'' {\em
+  Tractors and Agricultural Machines}, no.~7, pp.~19--22, 2011.
+\newblock UDC: 629.114.2.
+
+\bibitem{effects_of_sampling_and_2021}
+P.~Osinenko and D.~Dobriborsci, ``Effects of sampling and prediction horizon in
+  reinforcement learning,'' {\em IEEE Access}, vol.~9, pp.~127611--127618,
+  2021.
+
+\bibitem{experimental_results_of_slip_2016}
+P.~Osinenko, M.~Geissler, T.~Herlitzius, and S.~Streif, ``Experimental results
+  of slip control with a fuzzy-logic-assisted unscented kalman filter for state
+  estimation,'' {\em 2016 IEEE International Conference on Fuzzy Systems
+  (FUZZ-IEEE)}, pp.~501--507, 2016.
+
+\bibitem{a_generalized_stacked_reinforcement_2023}
+P.~Osinenko, D.~Dobriborsci, G.~Yaremenko, and G.~Malaniya, ``A generalized
+  stacked reinforcement learning method for sampled systems,'' {\em IEEE
+  Transactions on Automatic Control}, vol.~68, no.~11, pp.~7006--7013, 2023.
+
+\bibitem{experimental_verification_of_an_2021}
+A.~Kobelski, P.~Osinenko, and S.~Streif, ``Experimental verification of an
+  online traction parameter identification method,'' {\em Control Engineering
+  Practice}, vol.~113, p.~104837, 2021.
+
+\bibitem{practical_stability_analysis_of_2019}
+P.~Osinenko, G.~Devadze, and S.~Streif, ``Practical stability analysis of
+  sliding‐mode control with explicit computation of sampling time,'' {\em
+  Asian Journal of Control}, vol.~22, p.~1692–1699, Feb. 2019.
+
+\bibitem{model_predictive_control_with_2019}
+L.~Beckenbach, P.~Osinenko, and S.~Streif, ``Model predictive control with
+  stage cost shaping inspired by reinforcement learning,'' {\em 2019 IEEE 58th
+  Conference on Decision and Control (CDC)}, pp.~7110--7115, 2019.
+
+\bibitem{adaptive_dynamic_programming_using_2019}
+T.~Gohrt, P.~Osinenko, and S.~Streif, ``Adaptive dynamic programming using
+  lyapunov function constraints,'' {\em IEEE Control Systems Letters}, vol.~3,
+  no.~4, pp.~901--906, 2019.
+
+\bibitem{critic_as_lyapunov_function_2024}
+P.~Osinenko, G.~Yaremenko, R.~Zashchitin, A.~Bolychev, S.~Ibrahim, and
+  D.~Dobriborsci, ``Critic as lyapunov function (calf): a model-free,
+  stability-ensuring agent,'' {\em 2024 IEEE 63rd Conference on Decision and
+  Control (CDC)}, pp.~2517--2524, 2024.
+
+\bibitem{2020_european_control_conference_2020}
+L.~Beckenbach, P.~Osinenko, and S.~Streif, ``On closed-loop stability of model
+  predictive controllers with learning costs,'' in {\em 2020 European Control
+  Conference (ECC)}, pp.~184--189, 2020.
+
+\bibitem{a_method_of_online_2020}
+A.~Kobelski, P.~Osinenko, and S.~Streif, ``A method of online traction
+  parameter identification and mapping,'' {\em IFAC-PapersOnLine}, vol.~53,
+  no.~2, pp.~13933--13938, 2020.
+
+\bibitem{predictive_reinforcement_learning_mapless_2023}
+D.~Dobriborsci, R.~Zashchitin, M.~Kakanov, W.~Aumer, and P.~Osinenko,
+  ``Predictive reinforcement learning: map-less navigation method for mobile
+  robot,'' {\em Journal of Intelligent Manufacturing}, vol.~35, p.~4217–4232,
+  Aug. 2023.
+
+\bibitem{an_experimental_study_of_2022}
+D.~Dobriborsci, P.~Osinenko, and W.~Aumer, ``An experimental study of two
+  predictive reinforcement learning methods and comparison with
+  model-predictive control,'' {\em IFAC-PapersOnLine}, vol.~55, no.~10,
+  pp.~1545--1550, 2022.
+
+\bibitem{a_study_of_firstpassage_2021}
+M.~A. Larchenko, P.~Osinenko, G.~Yaremenko, and V.~V. Palyulin, ``A study of
+  first-passage time minimization via q-learning in heated gridworlds,'' {\em
+  IEEE Access}, vol.~9, pp.~159349--159363, 2021.
+
+\bibitem{constructive_analysis_of_eigenvalue_2020}
+P.~Osinenko, G.~Devadze, and S.~Streif, ``Constructive analysis of eigenvalue
+  problems in control under numerical uncertainty,'' {\em International Journal
+  of Control, Automation and Systems}, vol.~18, p.~2177–2185, Apr. 2020.
+
+\bibitem{optimal_control_of_centrifugal_2020}
+F.~Rußwurm, P.~Osinenko, and S.~Streif, ``Optimal control of centrifugal
+  spreader,'' {\em IFAC-PapersOnLine}, vol.~53, no.~2, pp.~15841--15846, 2020.
+
+\bibitem{adaptive_actorcritic_structure_for_2019}
+T.~Göhrt, P.~Osinenko, and S.~Streif, ``Adaptive actor-critic structure for
+  parametrized controllers,'' {\em IFAC-PapersOnLine}, vol.~52, no.~16,
+  pp.~652--657, 2019.
+
+\bibitem{analysis_of_the_caratheodoryʼ_2018}
+P.~Osinenko, G.~Devadze, and S.~Streif, ``Analysis of the caratheodoryʼ s
+  theorem on dynamical system trajectories under numerical uncertainty,'' {\em
+  IEEE/CAA Journal of Automatica Sinica}, vol.~5, no.~4, pp.~787--793, 2018.
+
+\bibitem{fuzzylogic_assisted_power_management_2015}
+P.~Osinenko, M.~Geißler, and T.~Herlitzius, ``Fuzzy-logic assisted power
+  management for electrified mobile machinery,'' {\em Neurocomputing},
+  vol.~170, pp.~439--447, 2015.
+\newblock Advances on Biological Rhythmic Pattern Generation: Experiments,
+  Algorithms and Applications Selected Papers from the 2013 International
+  Conference on Intelligence Science and Big Data Engineering (IScIDE 2013)
+  Computational Energy Management in Smart Grids.
+
+\bibitem{neural_networkbased_classification_for_2024}
+I.~Osokin, I.~Ryakin, S.~Moghimi, M.~Patrikeev, I.~Barsky, and P.~Osinenko,
+  ``Neural network-based classification for automated powdery mildew detection
+  in modern tomato greenhouses,'' {\em IEEE Access}, vol.~12, pp.~86782--86789,
+  2024.
+
+\bibitem{2021_60th_ieee_conference_2021}
+P.~Osinenko and G.~Yaremenko, ``On stochastic stabilization of sampled
+  systems,'' in {\em 2021 60th IEEE Conference on Decision and Control (CDC)},
+  pp.~5326--5331, 2021.
+
+\bibitem{towards_a_constructive_framework_2022}
+P.~Osinenko, ``Towards a constructive framework for control theory,'' {\em IEEE
+  Control Systems Letters}, vol.~6, pp.~379--384, 2022.
+
+\bibitem{analysis_of_extremum_value_2019}
+P.~Osinenko and S.~Streif, ``Analysis of extremum value theorems for function
+  spaces in optimal control under numerical uncertainty,'' {\em IMA Journal of
+  Mathematical Control and Information}, vol.~36, no.~3, pp.~1015--1032, 2019.
+
+\bibitem{a_constructive_version_of_2018}
+P.~Osinenko and S.~Streif, ``A constructive version of the extremum value
+  theorem for spaces of vector-valued functions,'' {\em Journal of Logic and
+  Analysis}, vol.~10, 2018.
+\newblock Available at logicandanalysis.com.
+
+\bibitem{a_stabilizing_reinforcement_learning_2024}
+L.~Beckenbach, P.~Osinenko, and S.~Streif, ``A stabilizing reinforcement
+  learning approach for sampled systems with partially unknown models,'' {\em
+  International Journal of Robust and Nonlinear Control}, vol.~34, no.~18,
+  pp.~12389--12412, 2024.
+
+\bibitem{improved_measurement_system_for_2012}
+P.~Osinenko, V.~Voronin, and M.~Sidorov, ``Improved measurement system for
+  ground vehicles,'' {\em Agricultural Machines and Technologies}, no.~1,
+  pp.~27--29, 2012.
+\newblock KF Bauman Moscow State Technical University.
+
+\bibitem{an_actorcritic_framework_for_2023}
+P.~Osinenko, G.~Yaremenko, G.~Malaniya, and A.~Bolychev, ``An actor-critic
+  framework for online control with environment stability guarantee,'' {\em
+  IEEE Access}, vol.~11, pp.~89188--89204, 2023.
+
+\bibitem{nonsmooth_stabilization_and_its_2020}
+P.~Osinenko, P.~Schmidt, and S.~Streif, ``Nonsmooth stabilization and its
+  computational aspects,'' {\em IFAC-PapersOnLine}, vol.~53, no.~2,
+  pp.~6370--6377, 2020.
+\newblock 21st IFAC World Congress.
+
+\bibitem{converse_optimality_for_discretetime_2020}
+T.~Göhrt, P.~Osinenko, and S.~Streif, ``Converse optimality for discrete-time
+  systems,'' {\em IEEE Transactions on Automatic Control}, vol.~65, no.~5,
+  pp.~2257--2264, 2020.
+
+\bibitem{winding_switching_strategy_for_2015}
+M.~Geissler, P.~Osinenko, and T.~Herlitzius, ``Winding switching strategy for
+  electric wheel drives in agricultural machinery,'' {\em 2015 IEEE
+  International Conference on Industrial Technology (ICIT)}, pp.~851--856,
+  2015.
+
+\bibitem{finite_and_fixedtime_stabilization_2024}
+S.~Pandey, S.~Kamal, P.~Osinenko, S.~Parsegov, and D.~Singh, ``Finite and
+  fixed‐time stabilization of discrete‐time systems using passivity‐based
+  control,'' {\em International Journal of Robust and Nonlinear Control},
+  vol.~34, p.~8481–8494, May 2024.
+
+\bibitem{modelbased_reinforcement_learning_experimental_2024}
+D.~Dobriborsci, I.~Chichkanov, R.~Zashchitin, and P.~Osinenko, ``Model-based
+  reinforcement learning experimental study for mobile robot navigation,'' {\em
+  2024 10th International Conference on Control, Decision and Information
+  Technologies (CoDIT)}, vol.~16, pp.~1825--1830, 2024.
+
+\bibitem{2024_10th_international_conference_2024}
+S.~Ibrahim, S.~M.~A. Kazmi, D.~Dobriborsci, R.~Zashchitin, M.~Mostafa, and
+  P.~Osinenko, ``Reward planning for underactuated robotic systems with
+  parameters uncertainty: Greedy-divide and conquer,'' in {\em 2024 10th
+  International Conference on Control, Decision and Information Technologies
+  (CoDIT)}, pp.~1518--1523, 2024.
+
+\bibitem{distributed_state_estimation_for_2023}
+V.~Erofeeva, S.~Parsegov, P.~Osinenko, and S.~Kamal, ``Distributed state
+  estimation for multi-area data reconciliation,'' {\em 2023 31st Mediterranean
+  Conference on Control and Automation (MED)}, pp.~954--959, 2023.
+
+\bibitem{on_constructive_extractability_of_2021}
+P.~Osinenko and S.~Streif, ``On constructive extractability of measurable
+  selectors of set-valued maps,'' {\em IEEE Transactions on Automatic Control},
+  vol.~66, no.~8, pp.~3757--3764, 2021.
+
+\bibitem{machine_learningbased_classification_of_2025}
+M.~Vulf, D.~Zharikov, D.~Kolomenskiy, D.~Eskin, and P.~Osinenko, ``Machine
+  learning-based classification of suspension droplet-solid wall impacts for
+  control of droplet fragmentation,'' {\em IEEE Access}, vol.~13,
+  pp.~137179--137208, 2025.
+
+\bibitem{tangerine_volume_estimation_by_2025}
+I.~Osokin, I.~Ryakin, S.~Moghimi, S.~Davidenko, V.~Guneavoi, G.~Yaremenko, and
+  P.~Osinenko, ``Tangerine volume estimation by point cloud data with neural
+  networks,'' {\em 2025 IEEE 26th International Conference of Young
+  Professionals in Electron Devices and Materials (EDM)}, pp.~1200--1203, 2025.
+
+\bibitem{regelum_graph_dependency_resolution_2025}
+G.~Malaniya, A.~Bolychev, P.~Osinenko, and G.~Yaremenko, ``Regelum: Graph
+  dependency resolution and execution orchestration for control systems,'' {\em
+  2025 IEEE 26th International Conference of Young Professionals in Electron
+  Devices and Materials (EDM)}, pp.~1470--1475, 2025.
+
+\bibitem{a_probabilistic_mechanism_for_2025}
+G.~Yaremenko, A.~Bolychev, G.~Malaniya, and P.~Osinenko, ``A probabilistic
+  mechanism for safe reinforcement learning,'' {\em 2025 IEEE 26th
+  International Conference of Young Professionals in Electron Devices and
+  Materials (EDM)}, pp.~1230--1235, 2025.
+
+\bibitem{2025_ieee_26th_international_2025}
+G.~Malaniya, A.~Bolychev, G.~Yaremenko, and P.~Osinenko, ``On limitations of
+  ensuring stability in reinforcement learning under robustifying control,'' in
+  {\em 2025 IEEE 26th International Conference of Young Professionals in
+  Electron Devices and Materials (EDM)}, pp.~1270--1275, 2025.
+
+\bibitem{moduslam_a_modular_framework_2025}
+M.~Griguletskii and P.~Osinenko, ``Moduslam: A modular framework for factor
+  graph-based localization and mapping,'' {\em 2025 IEEE 26th International
+  Conference of Young Professionals in Electron Devices and Materials (EDM)},
+  pp.~1210--1215, 2025.
+
+\bibitem{generating_informative_benchmarks_for_2025}
+G.~Yamerenko, S.~Ibrahim, F.~Moreno-Mora, P.~Osinenko, and S.~Streif,
+  ``Generating informative benchmarks for reinforcement learning,'' {\em IEEE
+  Control Systems Letters}, vol.~9, pp.~480--485, 2025.
+
+\bibitem{some_remarks_on_robustness_2025}
+P.~Schmidt, P.~Osinenko, and S.~Streif, ``Some remarks on robustness of
+  sample-and-hold stabilization,'' {\em IEEE Control Systems Letters}, vol.~8,
+  pp.~3464--3469, 2025.
+
+\bibitem{some_remarks_on_practical_2024}
+P.~Schmidt, P.~Osinenko, and S.~Streif, ``Some remarks on practical
+  stabilization via clf-based control under measurement noise,'' {\em IEEE
+  Access}, vol.~13, pp.~1882--1895, 2024.
+
+\bibitem{optimizing_energy_consumption_for_2024}
+D.~Belov, A.~Erkhov, F.~Khabibullin, E.~Pestova, S.~Satsevich, I.~Osokin,
+  P.~Osinenko, and D.~Tsetserukou, ``Optimizing energy consumption for legged
+  robot by adapting equilibrium position and stiffness of a parallel torsion
+  spring,'' {\em 2024 IEEE International Conference on Robotics and Biomimetics
+  (ROBIO)}, pp.~832--836, 2024.
+
+\bibitem{modelfree_control_for_dropondemand_2024}
+M.~Vulf, A.~Bolychev, D.~Kolomenskiy, and P.~Osinenko, ``Model-free control for
+  drop-on-demand droplet generation using reinforcement learning,'' {\em 2024
+  European Control Conference (ECC)}, pp.~2534--2539, 2024.
+
+\bibitem{sliding_mode_control_for_2023}
+P.~Prasun, V.~K. Singh, V.~Pandey, S.~Kamal, S.~Ghosh, P.~Osinenko, and
+  S.~Parsegov, ``Sliding mode control for a class of systems based on a
+  non-monotonic lyapunov function,'' {\em 2023 31st Mediterranean Conference on
+  Control and Automation (MED)}, pp.~618--623, 2023.
+
+\bibitem{a_note_on_flenners_2016}
+P.~Graf, ``A note on flenner’s extension theorem,'' {\em manuscripta
+  mathematica}, vol.~165, no.~3-4, pp.~597--603, 2016.
+
+\bibitem{on_the_ransac_performance_2025}
+I.~Ryakin, S.~Moghimi, V.~Guneavoy, S.~Davidenko, M.~Patrikeev, I.~Osokin, and
+  P.~Osinenko, ``On the ransac performance for quadric surfaces in noisy
+  conditions,'' {\em IEEE Access}, vol.~13, pp.~66984--66993, 2025.
+
+\bibitem{a_comment_on_stabilizing_2021}
+P.~Osinenko, G.~Malaniya, G.~Yaremenko, and I.~Osokin, ``A comment on
+  stabilizing reinforcement learning,'' {\em arXiv preprint arXiv:2111.12316},
+  2021.
+
+\bibitem{improving_the_methods_of_2011}
+P.~V. Osinenko, ``Improving the methods of processing test data of land-based
+  vehicles,'' {\em Vestnik of N.E. Bauman Moscow State Technical University,
+  Series Mechanical Engineering}, vol.~78, no.~7, pp.~19--22, 2011.
+
+\end{thebibliography}
