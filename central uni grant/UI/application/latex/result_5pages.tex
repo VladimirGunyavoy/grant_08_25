@@ -1,0 +1,313 @@
+\documentclass[12pt,a4paper]{article}
+\usepackage[T2A]{fontenc}
+\usepackage[utf8]{inputenc}
+\usepackage[russian]{babel}
+\usepackage{geometry}
+\usepackage{graphicx}
+\usepackage{amsmath}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{booktabs}
+\usepackage{array}
+\usepackage{multirow}
+\usepackage{xcolor}
+\usepackage{hyperref}
+\usepackage{fancyhdr}
+\usepackage{titlesec}
+\usepackage{enumitem}
+\usepackage{setspace}
+\usepackage[final,protrusion=true,expansion=false,nopatch=footnote]{microtype}
+\microtypesetup{protrusion=true,expansion=false}
+
+
+% Настройки страницы
+\geometry{left=2cm,right=2cm,top=2cm,bottom=2cm}
+
+% Настройки гиперссылок
+\hypersetup{
+    colorlinks=true,
+    linkcolor=blue,
+    filecolor=magenta,      
+    urlcolor=cyan,
+    citecolor=green
+}
+
+% Настройки заголовков
+\titleformat{\section}{\Large\bfseries}{\thesection}{1em}{}[\vspace{0.4em}\titlerule]
+\titleformat{\subsection}{\large\bfseries}{\thesubsection}{1em}{}[\vspace{0.25em}\titlerule]
+\titleformat{\subsubsection}{\normalsize\bfseries}{\thesubsubsection}{1em}{}[\vspace{0.2em}\titlerule]
+\titlespacing*{\section}{0pt}{1.0ex plus .2ex minus .2ex}{0.8ex}
+\titlespacing*{\subsection}{0pt}{0.8ex plus .2ex minus .2ex}{0.6ex}
+\titlespacing*{\subsubsection}{0pt}{0.6ex plus .2ex minus .2ex}{0.5ex}
+
+% Настройки списков
+\setlist[itemize]{leftmargin=*,itemsep=1pt,parsep=0pt}
+\setlist[enumerate]{leftmargin=*,itemsep=1pt,parsep=0pt}
+
+% Настройки межстрочного интервала (для укладки в 5 страниц)
+\singlespacing%
+\frenchspacing
+\emergencystretch=2em
+
+% Настройки колонтитулов
+\pagestyle{fancy}
+\fancyhf{}
+\fancyhead[L]{\small AIDA: Исследования и образовательная программа}
+\fancyhead[R]{\small \thepage}
+\renewcommand{\headrulewidth}{0.4pt}
+\setlength{\headheight}{14pt}
+
+% Локальный .bib с ссылками (уникальное имя, чтобы избежать конфликтов)
+% Для компиляции используйте внешний local_ai_refs.bib в той же директории
+
+\begin{document}
+
+% Титульная страница
+\begin{titlepage}
+    \centering
+    \vspace*{1cm}
+    
+    {\Huge\bfseries Лаборатория AIDA: Исследовательско-образовательная программа\par}
+    
+    \vspace{1.5cm}
+    
+    {\Large\bfseries Лаборатория AIDA\par}
+    {\large (\textit{Artificial Intelligence in Dynamic Action})\par}
+    
+    \vspace{1.5cm}
+    
+    \begin{tabular}{ll}
+        \textbf{Руководитель:} & Осиненко Павел Валерьевич \\
+        \textbf{Институция:} & Сколковский институт науки и технологий (Сколтех)
+    \end{tabular}
+    
+    \vfill
+    
+    {\large \today\par}
+\end{titlepage}
+
+\section{Лаборатория AIDA (кратко)}
+
+\textbf{Миссия:} Обеспечивать безопасное и надёжное применение ИИ в динамических системах через разработку методов с формальными гарантиями и их практическое внедрение.
+
+\textbf{Основные направления деятельности:}
+\begin{itemize}
+    \item Безопасное автоматическое управление для критических применений
+    \item Обучение с подкреплением с гарантиями (CALF)
+    \item Платформа быстрого прототипирования Regelum (\textit{ROS}, симуляция, стенды)
+    \item Прикладные ИИ-решения: робототехника, CV, финтех, промышленная автоматизация
+\end{itemize}
+
+\textbf{Ключевые научные направления:}
+\begin{itemize}
+    \item Теория безопасного RL: \textit{Lyapunov-based RL (CALF)}, \textit{constrained MDPs}
+    \item Планирование/поддержка решений: \textit{MPC}, \textit{POMDP}, \textit{task-and-motion planning}
+    \item Численная надёжность алгоритмов управления: формальная верификация, интервальный/символьный анализ
+    \item Восприятие и локализация: \textit{CV}, навигация, \textit{SLAM}
+\end{itemize}
+
+\textbf{Избранные публикации:}
+\begin{itemize}
+    \item \href{https://arxiv.org/abs/2501.02267}{\textit{Towards a constructive framework for control theory}}
+    \item \href{https://arxiv.org/abs/2105.07152}{\textit{On stochastic stabilization of sampled systems}}
+    \item \href{https://arxiv.org/abs/2205.13409}{\textit{On stochastic stabilization via non-smooth control Lyapunov functions}}
+\end{itemize}
+
+\textbf{Образовательная программа (курсы):}
+\begin{itemize}
+    \item \textit{Reinforcement Learning with Safety Guarantees} (\textit{CALF})
+    \item \textit{Advanced Automatic Control and Numerical Reliability}
+    \item \textit{Planning and Decision-Making for Control and Robotics}
+    \item \textit{Computer Vision for Autonomous Systems}; Research Practicum: Regelum/Robotics
+\end{itemize}
+
+\section{О лаборатории}
+
+\textbf{Лаборатория Искусственного интеллекта в динамических системах (AIDA)} --- научно-исследовательская группа Сколтеха, ведущая фундаментальные и прикладные исследования ИИ в динамических системах: безопасное автоматическое управление, обучение с подкреплением с гарантиями, численная надёжность алгоритмов и методы планирования и поддержки принятия решений; внедрение в робототехнике, финтехе и промышленной автоматизации.
+
+\textbf{Миссия:} Обеспечивать безопасное и надёжное применение ИИ в динамических системах через разработку методов с формальными гарантиями и их практическое внедрение.
+
+\subsection*{Основные направления деятельности}
+\begin{itemize}
+    \item Проектирование и внедрение безопасных систем автоматического управления для критических применений
+    \item Инжиниринг RL-решений с гарантиями безопасности (\textit{CALF}) под отраслевые задачи
+    \item Развитие и поддержка платформы Regelum: \textit{ML}-ready платформы, \textit{ROS}-интеграция, симуляция и испытательные стенды
+    \item НИОКР и консалтинг: робототехника, компьютерное зрение, финтех, промышленная автоматизация
+\end{itemize}
+
+\section{Ключевые научные направления}
+\begin{itemize}
+    \item Теория безопасного обучения с подкреплением: Lyapunov-based \textit{RL} (\textit{CALF}), \textit{constrained MDPs}; цели --- сертификаты стабильности и безопасности
+    \item Планирование и поддержка принятия решений в динамических системах: MPC, POMDP, task-and-motion planning; цели --- безопасность и оптимальность
+    \item Численная надёжность алгоритмов управления: алгоритмическая неопределённость, интервальный/символьный анализ, верификация вычислений
+    \item Восприятие и локализация для автономных систем: компьютерное зрение, навигация, SLAM; цели --- устойчивость к шумам и сбоям
+\end{itemize}
+
+\subsection*{Почему это важно}
+Современные методы управления и ИИ страдают от алгоритмической (численной) неопределённости: расхождения между математическими моделями и их реализациями на цифровых устройствах приводят к срыву устойчивости и ошибкам (например, «matrix is singular», «badly scaled», «eigenvalues did not converge»). Мы исследуем формальные методы, повышающие вычислительную надёжность в реальных системах.
+
+\subsection*{Избранные публикации}
+\begin{itemize}
+    \item \href{https://arxiv.org/abs/2501.02267}{Towards a constructive framework for control theory}
+    \item \href{https://arxiv.org/abs/2105.07152}{On stochastic stabilization of sampled systems}
+    \item \href{https://arxiv.org/abs/2205.13409}{On stochastic stabilization via non-smooth control Lyapunov functions}
+\end{itemize}
+
+\section{Основные научные разработки}
+\subsection{CALF: Технология безопасного обучения с подкреплением}
+\textbf{Архитектура:}
+\begin{itemize}
+    \item Гибрид: \textit{RL}-агент + номинальный контроллер
+    \item Переключение: критик Q-функции решает, когда доверять агенту
+    \item Адаптивность: передача управления от безопасного контроллера к \textit{RL}
+    \item Гарантии: функции Ляпунова обеспечивают стабильность
+\end{itemize}
+\textbf{Результаты:}
+\begin{itemize}
+    \item +25–40\% к TD3/PPO
+    \item Совместим с любым \textit{RL}-алгоритмом (модульно)
+    \item Демонстрация: симуляция подводных дронов (сложная динамическая среда)
+\end{itemize}
+\textbf{Применение:} промышленная робототехника, автономный транспорт, потенциально медицинская робототехника.
+
+\subsection{Regelum: Платформа для быстрого прототипирования}
+\begin{itemize}
+    \item Модульная архитектура, встроенные гарантии безопасности
+    \item Интеграция с \textit{ROS}, визуализация и анализ в реальном времени
+    \item Потенциал: основа для корпоративных решений и SaaS-платформы
+\end{itemize}
+
+\section{Готовые к коммерциализации проекты}
+\subsection{AIDA-T: Автономный агроробот}
+\textbf{Рынок:} 280 млрд руб. защищенный грунт в России, рост 12–15\% в год.
+
+\textbf{Технические преимущества:}
+\begin{itemize}
+    \item Единственная автоматическая диагностика на рынке; точность 86–87\% на собственных датасетах
+    \item Гибридная ходовая система
+    \item Срок окупаемости: 2.5–3 года (при экономии 6–8 млн руб./год)
+    \item Полное импортозамещение с высоким расширением функционала
+\end{itemize}
+
+\textbf{Финансовые показатели:}
+\begin{itemize}
+    \item Стоимость: 15–20 млн руб.
+    \item Маржинальность: 40–45\%
+    \item Прогноз выручки к 2030: 1+ млрд руб.
+    \item Целевая доля рынка: 3–5\%
+\end{itemize}
+\textbf{Статус:} Грант Skoltech STRIP успешно завершён; прототип готов к испытаниям, уровень \textit{TRL}~5.
+
+\section{Команда}
+\subsection*{Руководитель}
+Павел Осиненко --- Dr.-Ing. habil.; 25+ публикаций (Scopus Q1); 10+ лет опыта в России и Германии; экспертиза: безопасный~\textit{RL}\ и теория управления. % chktex 12
+
+\subsection*{Научная команда}
+\begin{itemize}
+    \item 3 готовящихся кандидата наук (защиты 2025–2026)
+    \item 5+ инженеров-исследователей с опытом в \textit{RL}/\textit{CV}
+    \item Молодые исследователи --- аспиранты и магистранты Сколтеха
+\end{itemize}
+\textbf{Ключевые сотрудники:}
+\begin{itemize}
+    \item Соискатели КТН (2025–нач. 2026): Яременко Г.А., Вульф М.Д., Григулецкий М., Рякин И.С.
+    \item Аспиранты (в т.ч. инженеры-исследователи): Давиденко С.А., Ибрагим С., Белов Д.Д., Гунявой В.
+    \item Магистранты: Фук Н.С.
+\end{itemize}
+
+\section{Направления развития}
+\subsection*{Готовые к развитию продукты}
+\begin{itemize}
+    \item \textbf{AIDA Robotics} --- агротехнологии (продукт готов к запуску; интерес от агрохолдингов)
+    \item \textbf{Industrial~\textit{RL} Platform} --- \textit{B2B}, промышленная автоматизация, безопасный ИИ
+    \item \textbf{Robotics Safety Suite} --- решения для робототехники (в т.ч. медицинская, сервисная)
+    \item \textbf{Компьютерное зрение для автономных систем} --- детекция/сегментация/трекинг; классификация дефектов; оценка объёма и прогноз показателей (в разработке); перенос на другие домены; обучение собственных моделей (\textit{CNN}, \textit{ResNet}/\textit{EfficientNet}, \textit{U-Net}/\textit{Mask R-CNN}, \textit{YOLO}/\textit{Detectron2}); диффузия для аугментации; \textit{MLOps}/edge-деплой (\textit{Jetson})
+\end{itemize}
+
+\subsection*{Перспективные направления}
+\begin{itemize}
+    \item Финансовые технологии (\textit{FinTech}): применение \textit{CALF} в алготрейдинге; контролируемые риски
+    \item Автономный транспорт (\textit{MobTech}): безопасные системы управления, гарантии стабильности, сертификация
+    \item Социальная робототехника: взаимодействие человек–робот, ассистивные приложения
+    \item Локализационно-навигационные решения (\textit{ModuSLAM}): модульный \textit{SLAM} на фактор-графах; мультисенсорная фьюжн (камера/\textit{LiDAR}/\textit{IMU}); \textit{loop closure}; \textit{relocalization}; \textit{ROS}/офлайн-логи; статус --- исследовательский прототип
+\end{itemize}
+
+\section{Конкурентные преимущества}
+\subsection*{Технологические}
+Единственная команда в России с экспертизой в безопасном \textit{RL}; патентуемые алгоритмы и архитектурные решения; работающие прототипы; масштабируемая архитектура.
+
+\subsection*{Рыночные}
+First-mover advantage в безопасном \textit{RL}; интерес от клиентов; государственная поддержка.
+
+\subsection*{Командные}
+Уникальная экспертиза руководителя; опыт коммерциализации; партнёрства с индустрией; подготовка специалистов для автономных систем (курсы, стажировки, ротации).
+
+\section{Финансовые перспективы}
+\subsection*{Краткосрочные (1–2 года)}
+\begin{itemize}
+    \item AIDA-T: 50–100 млн руб. выручки
+    \item Regelum: 20–30 млн руб. лицензионных доходов
+    \item Консалтинг: 10–15 млн руб. проектных доходов
+\end{itemize}
+\subsection*{Среднесрочные (3–5 лет)}
+\begin{itemize}
+    \item Агротех платформа: 500 млн --- 1 млрд руб. выручки
+    \item Industrial \textit{RL}: 200–300 млн руб. рекуррентных доходов
+    \item IP-лицензирование: 50–100 млн руб. ежегодно
+\end{itemize}
+\subsection*{Долгосрочные (5+ лет)}
+Готовность к стратегическим партнёрствам; экспансия в ЕС и Азию; развитие линейки продуктов.
+
+\section{Партнерства и экосистема}
+\subsection*{Научные партнёры}
+Сколтех; Технический университет Хемница (Германия); международные группы в области \textit{RL}.
+
+\subsection*{Индустриальные партнёры}
+Крупные агрохолдинги; промышленные интеграторы.
+
+\subsection*{Государственная поддержка}
+Грант СТАРТ-ИИ (5 млн руб.); предыдущий грант УМНИК (500 тыс. руб.); поддержка ФСИ.
+
+\section{Образовательная программа}
+\begin{itemize}
+    \item \textit{Reinforcement Learning with Safety Guarantees} --- Ляпунов, constrained \textit{RL}, \textit{CALF}; практикум в Regelum
+    \item \textit{Advanced Automatic Control and Numerical Reliability} --- устойчивое управление, вычислительная надёжность, формальная верификация
+    \item \textit{Planning and Decision-Making for Control and Robotics} --- планирование, поиск, безопасные контроллеры с элементами ИИ
+    \item \textit{Computer Vision for Autonomous Systems} --- детекция, трекинг, навигация, \textit{SLAM}; Research Practicum: Regelum/Robotics
+\end{itemize}
+
+\section{Текущие задачи и планы}
+\subsection*{Научные цели}
+\begin{itemize}
+    \item Развитие теории безопасного \textit{RL} с формальными гарантиями
+    \item Развитие методов планирования и поддержки принятия решений
+    \item Новые методы анализа динамических систем
+\end{itemize}
+
+\subsection*{Практические цели}
+\begin{itemize}
+    \item Завершение разработки AIDA-T для серийного производства
+    \item Создание платформы Regelum для корпоративных клиентов
+    \item Расширение портфеля ИС
+\end{itemize}
+
+\subsection*{Коммерческие цели}
+\begin{itemize}
+    \item Привлечение стратегических партнёров
+    \item Развитие сети дистрибьюторов для AIDA-T
+    \item Лицензионная модель для CALF-технологий
+\end{itemize}
+
+\section{Контакты}
+\textbf{Павел Валерьевич Осиненко, PhD}\\
+    \indent Руководитель лаборатории AIDA\\
+    \indent \href{mailto:pavel.osinenko@skoltech.ru}{pavel.osinenko@skoltech.ru}
+
+\vspace{10pt}
+\noindent \textbf{Сергей Александрович Давиденко, аспирант}\\
+    \indent Ключевой исполнитель проекта AIDA-T\\
+    \indent \href{mailto:sergei.davidenko@skoltech.ru}{sergei.davidenko@skoltech.ru}
+
+
+
+\end{document}
