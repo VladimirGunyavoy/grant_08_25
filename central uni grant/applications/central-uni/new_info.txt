@@ -1,0 +1,9 @@
+Objectives and approach To become Russia’s top research group in advanced control theory and reinforcement learning, worldwide recognized. Adaptive, robust, fault-tolerant, and optimal control systems, safe reinforcement learning, reinforcement learning with guarantees, and applied dynamical computer vision systems are essential for modern engineering. While AI—particularly reinforcement learning—plays an increasing role, the most advanced robotic systems (Atlas, Spot, H1, etc.) rely heavily on model-predictive control and formal safety guarantees. Bridging AI with advanced control expertise is crucial, underscoring the need for the engineering center that integrates both disciplines effectively Approach: synergy of control theory and reinforcement learning, backed by practical applications in robotics and other fields.
+Core team Prof. Pavel Osinenko and research engineer Ilya Ryakin.
+Scope and timeline Over 2025- 2030 it is planned to develop: ● AIDA-T Platform: AIDA-T (Agrobotic Intelligent Data Analyzer for Tomatoes, TRL 5 certificate) platform towards fully autonomous greenhouses (Skolkovo-backed startup “AIDA Robotics” under registration). ● Regelum Software: Regelum software framework (MATLAB alternative for advanced control prototyping and AI-driven automation) towards a Skolkovo startup (“AIDA Solutions”).
+
+моменты схваячены, но основная проблема: слишком кратко, слишком много буллетов и мало текста, люди могут не понять. надо развернуть. как у Андрея (документ пример заявки как у Сомова)
+
+вот это не про лабу в целом. это всего лишь 1 направление, формальной верификации (раздел почему это важно)
+
+такое тяжело читать. это понятно только людям из лабы и то не всем. нало проще и развёрнутее как у Андрея. жпт может развернуть. главное, не переборщить с чатбот спиком (пункт про калф надо сделать проще)
